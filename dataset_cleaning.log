@@ -1,0 +1,227 @@
+2025-03-17 06:07:18,759 - dataset_cleaner - INFO - Starting dataset upload
+2025-03-17 06:07:18,993 - huggingface_hub._login - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-03-17 06:07:18,993 - dataset_cleaner - INFO - Successfully logged in to Hugging Face
+2025-03-17 06:07:18,993 - dataset_cleaner - INFO - Attempting direct file upload...
+2025-03-17 06:07:18,993 - dataset_cleaner - INFO - Uploading files directly from processed_data to tinycrops/clean_american_law
+2025-03-17 06:07:18,993 - dataset_cleaner - INFO - Found 109 parquet files to upload
+2025-03-17 06:07:19,064 - dataset_cleaner - INFO - Uploading file 1/109: part-00001.parquet
+2025-03-17 06:07:21,079 - dataset_cleaner - INFO - Successfully uploaded part-00001.parquet
+2025-03-17 06:07:21,079 - dataset_cleaner - INFO - Uploading file 2/109: part-00002.parquet
+2025-03-17 06:07:22,507 - dataset_cleaner - INFO - Successfully uploaded part-00002.parquet
+2025-03-17 06:07:22,507 - dataset_cleaner - INFO - Uploading file 3/109: part-00003.parquet
+2025-03-17 06:07:23,730 - dataset_cleaner - INFO - Successfully uploaded part-00003.parquet
+2025-03-17 06:07:23,730 - dataset_cleaner - INFO - Uploading file 4/109: part-00004.parquet
+2025-03-17 06:07:27,519 - dataset_cleaner - INFO - Successfully uploaded part-00004.parquet
+2025-03-17 06:07:27,519 - dataset_cleaner - INFO - Uploading file 5/109: part-00005.parquet
+2025-03-17 06:07:28,748 - dataset_cleaner - INFO - Successfully uploaded part-00005.parquet
+2025-03-17 06:07:28,749 - dataset_cleaner - INFO - Uploading file 6/109: part-00006.parquet
+2025-03-17 06:07:30,182 - dataset_cleaner - INFO - Successfully uploaded part-00006.parquet
+2025-03-17 06:07:30,182 - dataset_cleaner - INFO - Uploading file 7/109: part-00007.parquet
+2025-03-17 06:07:31,408 - dataset_cleaner - INFO - Successfully uploaded part-00007.parquet
+2025-03-17 06:07:31,409 - dataset_cleaner - INFO - Uploading file 8/109: part-00008.parquet
+2025-03-17 06:07:32,435 - dataset_cleaner - INFO - Successfully uploaded part-00008.parquet
+2025-03-17 06:07:32,435 - dataset_cleaner - INFO - Uploading file 9/109: part-00009.parquet
+2025-03-17 06:07:33,561 - dataset_cleaner - INFO - Successfully uploaded part-00009.parquet
+2025-03-17 06:07:33,561 - dataset_cleaner - INFO - Uploading file 10/109: part-00010.parquet
+2025-03-17 06:07:34,790 - dataset_cleaner - INFO - Successfully uploaded part-00010.parquet
+2025-03-17 06:07:34,790 - dataset_cleaner - INFO - Uploading file 11/109: part-00011.parquet
+2025-03-17 06:07:35,916 - dataset_cleaner - INFO - Successfully uploaded part-00011.parquet
+2025-03-17 06:07:35,917 - dataset_cleaner - INFO - Uploading file 12/109: part-00012.parquet
+2025-03-17 06:07:37,247 - dataset_cleaner - INFO - Successfully uploaded part-00012.parquet
+2025-03-17 06:07:37,248 - dataset_cleaner - INFO - Uploading file 13/109: part-00013.parquet
+2025-03-17 06:07:38,681 - dataset_cleaner - INFO - Successfully uploaded part-00013.parquet
+2025-03-17 06:07:38,682 - dataset_cleaner - INFO - Uploading file 14/109: part-00014.parquet
+2025-03-17 06:07:40,525 - dataset_cleaner - INFO - Successfully uploaded part-00014.parquet
+2025-03-17 06:07:40,525 - dataset_cleaner - INFO - Uploading file 15/109: part-00015.parquet
+2025-03-17 06:07:42,367 - dataset_cleaner - INFO - Successfully uploaded part-00015.parquet
+2025-03-17 06:07:42,367 - dataset_cleaner - INFO - Uploading file 16/109: part-00016.parquet
+2025-03-17 06:07:43,800 - dataset_cleaner - INFO - Successfully uploaded part-00016.parquet
+2025-03-17 06:07:43,800 - dataset_cleaner - INFO - Uploading file 17/109: part-00017.parquet
+2025-03-17 06:07:45,235 - dataset_cleaner - INFO - Successfully uploaded part-00017.parquet
+2025-03-17 06:07:45,236 - dataset_cleaner - INFO - Uploading file 18/109: part-00018.parquet
+2025-03-17 06:07:46,565 - dataset_cleaner - INFO - Successfully uploaded part-00018.parquet
+2025-03-17 06:07:46,565 - dataset_cleaner - INFO - Uploading file 19/109: part-00019.parquet
+2025-03-17 06:07:48,382 - dataset_cleaner - INFO - Successfully uploaded part-00019.parquet
+2025-03-17 06:07:48,383 - dataset_cleaner - INFO - Uploading file 20/109: part-00020.parquet
+2025-03-17 06:07:49,643 - dataset_cleaner - INFO - Successfully uploaded part-00020.parquet
+2025-03-17 06:07:49,643 - dataset_cleaner - INFO - Uploading file 21/109: part-00021.parquet
+2025-03-17 06:07:50,770 - dataset_cleaner - INFO - Successfully uploaded part-00021.parquet
+2025-03-17 06:07:50,770 - dataset_cleaner - INFO - Uploading file 22/109: part-00022.parquet
+2025-03-17 06:07:52,101 - dataset_cleaner - INFO - Successfully uploaded part-00022.parquet
+2025-03-17 06:07:52,101 - dataset_cleaner - INFO - Uploading file 23/109: part-00023.parquet
+2025-03-17 06:07:53,329 - dataset_cleaner - INFO - Successfully uploaded part-00023.parquet
+2025-03-17 06:07:53,330 - dataset_cleaner - INFO - Uploading file 24/109: part-00024.parquet
+2025-03-17 06:07:54,621 - dataset_cleaner - INFO - Successfully uploaded part-00024.parquet
+2025-03-17 06:07:54,621 - dataset_cleaner - INFO - Uploading file 25/109: part-00025.parquet
+2025-03-17 06:07:55,883 - dataset_cleaner - INFO - Successfully uploaded part-00025.parquet
+2025-03-17 06:07:55,884 - dataset_cleaner - INFO - Uploading file 26/109: part-00026.parquet
+2025-03-17 06:07:57,011 - dataset_cleaner - INFO - Successfully uploaded part-00026.parquet
+2025-03-17 06:07:57,011 - dataset_cleaner - INFO - Uploading file 27/109: part-00027.parquet
+2025-03-17 06:07:58,342 - dataset_cleaner - INFO - Successfully uploaded part-00027.parquet
+2025-03-17 06:07:58,342 - dataset_cleaner - INFO - Uploading file 28/109: part-00028.parquet
+2025-03-17 06:07:59,468 - dataset_cleaner - INFO - Successfully uploaded part-00028.parquet
+2025-03-17 06:07:59,469 - dataset_cleaner - INFO - Uploading file 29/109: part-00029.parquet
+2025-03-17 06:08:00,902 - dataset_cleaner - INFO - Successfully uploaded part-00029.parquet
+2025-03-17 06:08:00,902 - dataset_cleaner - INFO - Uploading file 30/109: part-00030.parquet
+2025-03-17 06:08:02,363 - dataset_cleaner - INFO - Successfully uploaded part-00030.parquet
+2025-03-17 06:08:02,363 - dataset_cleaner - INFO - Uploading file 31/109: part-00031.parquet
+2025-03-17 06:08:03,769 - dataset_cleaner - INFO - Successfully uploaded part-00031.parquet
+2025-03-17 06:08:03,770 - dataset_cleaner - INFO - Uploading file 32/109: part-00032.parquet
+2025-03-17 06:08:04,861 - dataset_cleaner - INFO - Successfully uploaded part-00032.parquet
+2025-03-17 06:08:04,862 - dataset_cleaner - INFO - Uploading file 33/109: part-00033.parquet
+2025-03-17 06:08:06,432 - dataset_cleaner - INFO - Successfully uploaded part-00033.parquet
+2025-03-17 06:08:06,432 - dataset_cleaner - INFO - Uploading file 34/109: part-00034.parquet
+2025-03-17 06:08:07,551 - dataset_cleaner - INFO - Successfully uploaded part-00034.parquet
+2025-03-17 06:08:07,551 - dataset_cleaner - INFO - Uploading file 35/109: part-00035.parquet
+2025-03-17 06:08:08,889 - dataset_cleaner - INFO - Successfully uploaded part-00035.parquet
+2025-03-17 06:08:08,890 - dataset_cleaner - INFO - Uploading file 36/109: part-00036.parquet
+2025-03-17 06:08:10,118 - dataset_cleaner - INFO - Successfully uploaded part-00036.parquet
+2025-03-17 06:08:10,118 - dataset_cleaner - INFO - Uploading file 37/109: part-00037.parquet
+2025-03-17 06:08:11,245 - dataset_cleaner - INFO - Successfully uploaded part-00037.parquet
+2025-03-17 06:08:11,245 - dataset_cleaner - INFO - Uploading file 38/109: part-00038.parquet
+2025-03-17 06:08:12,268 - dataset_cleaner - INFO - Successfully uploaded part-00038.parquet
+2025-03-17 06:08:12,269 - dataset_cleaner - INFO - Uploading file 39/109: part-00039.parquet
+2025-03-17 06:08:13,472 - dataset_cleaner - INFO - Successfully uploaded part-00039.parquet
+2025-03-17 06:08:13,472 - dataset_cleaner - INFO - Uploading file 40/109: part-00040.parquet
+2025-03-17 06:08:14,720 - dataset_cleaner - INFO - Successfully uploaded part-00040.parquet
+2025-03-17 06:08:14,721 - dataset_cleaner - INFO - Uploading file 41/109: part-00041.parquet
+2025-03-17 06:08:15,852 - dataset_cleaner - INFO - Successfully uploaded part-00041.parquet
+2025-03-17 06:08:15,853 - dataset_cleaner - INFO - Uploading file 42/109: part-00042.parquet
+2025-03-17 06:08:20,436 - dataset_cleaner - INFO - Successfully uploaded part-00042.parquet
+2025-03-17 06:08:20,437 - dataset_cleaner - INFO - Uploading file 43/109: part-00043.parquet
+2025-03-17 06:08:21,690 - dataset_cleaner - INFO - Successfully uploaded part-00043.parquet
+2025-03-17 06:08:21,690 - dataset_cleaner - INFO - Uploading file 44/109: part-00044.parquet
+2025-03-17 06:08:22,816 - dataset_cleaner - INFO - Successfully uploaded part-00044.parquet
+2025-03-17 06:08:22,816 - dataset_cleaner - INFO - Uploading file 45/109: part-00045.parquet
+2025-03-17 06:08:24,045 - dataset_cleaner - INFO - Successfully uploaded part-00045.parquet
+2025-03-17 06:08:24,045 - dataset_cleaner - INFO - Uploading file 46/109: part-00046.parquet
+2025-03-17 06:08:25,068 - dataset_cleaner - INFO - Successfully uploaded part-00046.parquet
+2025-03-17 06:08:25,069 - dataset_cleaner - INFO - Uploading file 47/109: part-00047.parquet
+2025-03-17 06:08:26,604 - dataset_cleaner - INFO - Successfully uploaded part-00047.parquet
+2025-03-17 06:08:26,605 - dataset_cleaner - INFO - Uploading file 48/109: part-00048.parquet
+2025-03-17 06:08:27,628 - dataset_cleaner - INFO - Successfully uploaded part-00048.parquet
+2025-03-17 06:08:27,629 - dataset_cleaner - INFO - Uploading file 49/109: part-00049.parquet
+2025-03-17 06:08:28,810 - dataset_cleaner - INFO - Successfully uploaded part-00049.parquet
+2025-03-17 06:08:28,811 - dataset_cleaner - INFO - Uploading file 50/109: part-00050.parquet
+2025-03-17 06:08:29,881 - dataset_cleaner - INFO - Successfully uploaded part-00050.parquet
+2025-03-17 06:08:29,882 - dataset_cleaner - INFO - Uploading file 51/109: part-00051.parquet
+2025-03-17 06:08:31,213 - dataset_cleaner - INFO - Successfully uploaded part-00051.parquet
+2025-03-17 06:08:31,213 - dataset_cleaner - INFO - Uploading file 52/109: part-00052.parquet
+2025-03-17 06:08:32,441 - dataset_cleaner - INFO - Successfully uploaded part-00052.parquet
+2025-03-17 06:08:32,442 - dataset_cleaner - INFO - Uploading file 53/109: part-00053.parquet
+2025-03-17 06:08:33,978 - dataset_cleaner - INFO - Successfully uploaded part-00053.parquet
+2025-03-17 06:08:33,979 - dataset_cleaner - INFO - Uploading file 54/109: part-00054.parquet
+2025-03-17 06:08:35,514 - dataset_cleaner - INFO - Successfully uploaded part-00054.parquet
+2025-03-17 06:08:35,514 - dataset_cleaner - INFO - Uploading file 55/109: part-00055.parquet
+2025-03-17 06:08:37,256 - dataset_cleaner - INFO - Successfully uploaded part-00055.parquet
+2025-03-17 06:08:37,257 - dataset_cleaner - INFO - Uploading file 56/109: part-00056.parquet
+2025-03-17 06:08:39,919 - dataset_cleaner - INFO - Successfully uploaded part-00056.parquet
+2025-03-17 06:08:39,920 - dataset_cleaner - INFO - Uploading file 57/109: part-00057.parquet
+2025-03-17 06:08:43,193 - dataset_cleaner - INFO - Successfully uploaded part-00057.parquet
+2025-03-17 06:08:43,194 - dataset_cleaner - INFO - Uploading file 58/109: part-00058.parquet
+2025-03-17 06:08:47,187 - dataset_cleaner - INFO - Successfully uploaded part-00058.parquet
+2025-03-17 06:08:47,188 - dataset_cleaner - INFO - Uploading file 59/109: part-00059.parquet
+2025-03-17 06:08:53,331 - dataset_cleaner - INFO - Successfully uploaded part-00059.parquet
+2025-03-17 06:08:53,331 - dataset_cleaner - INFO - Uploading file 60/109: part-00060.parquet
+2025-03-17 06:08:58,144 - dataset_cleaner - INFO - Successfully uploaded part-00060.parquet
+2025-03-17 06:08:58,144 - dataset_cleaner - INFO - Uploading file 61/109: part-00061.parquet
+2025-03-17 06:09:01,216 - dataset_cleaner - INFO - Successfully uploaded part-00061.parquet
+2025-03-17 06:09:01,216 - dataset_cleaner - INFO - Uploading file 62/109: part-00062.parquet
+2025-03-17 06:09:05,317 - dataset_cleaner - INFO - Successfully uploaded part-00062.parquet
+2025-03-17 06:09:05,318 - dataset_cleaner - INFO - Uploading file 63/109: part-00063.parquet
+2025-03-17 06:09:07,793 - dataset_cleaner - INFO - Successfully uploaded part-00063.parquet
+2025-03-17 06:09:07,793 - dataset_cleaner - INFO - Uploading file 64/109: part-00064.parquet
+2025-03-17 06:09:11,456 - dataset_cleaner - INFO - Successfully uploaded part-00064.parquet
+2025-03-17 06:09:11,456 - dataset_cleaner - INFO - Uploading file 65/109: part-00065.parquet
+2025-03-17 06:09:13,299 - dataset_cleaner - INFO - Successfully uploaded part-00065.parquet
+2025-03-17 06:09:13,299 - dataset_cleaner - INFO - Uploading file 66/109: part-00066.parquet
+2025-03-17 06:09:15,244 - dataset_cleaner - INFO - Successfully uploaded part-00066.parquet
+2025-03-17 06:09:15,244 - dataset_cleaner - INFO - Uploading file 67/109: part-00067.parquet
+2025-03-17 06:09:17,395 - dataset_cleaner - INFO - Successfully uploaded part-00067.parquet
+2025-03-17 06:09:17,396 - dataset_cleaner - INFO - Uploading file 68/109: part-00068.parquet
+2025-03-17 06:09:19,136 - dataset_cleaner - INFO - Successfully uploaded part-00068.parquet
+2025-03-17 06:09:19,136 - dataset_cleaner - INFO - Uploading file 69/109: part-00069.parquet
+2025-03-17 06:09:20,772 - dataset_cleaner - INFO - Successfully uploaded part-00069.parquet
+2025-03-17 06:09:20,773 - dataset_cleaner - INFO - Uploading file 70/109: part-00070.parquet
+2025-03-17 06:09:22,310 - dataset_cleaner - INFO - Successfully uploaded part-00070.parquet
+2025-03-17 06:09:22,311 - dataset_cleaner - INFO - Uploading file 71/109: part-00071.parquet
+2025-03-17 06:09:27,329 - dataset_cleaner - INFO - Successfully uploaded part-00071.parquet
+2025-03-17 06:09:27,329 - dataset_cleaner - INFO - Uploading file 72/109: part-00072.parquet
+2025-03-17 06:09:28,723 - dataset_cleaner - INFO - Successfully uploaded part-00072.parquet
+2025-03-17 06:09:28,724 - dataset_cleaner - INFO - Uploading file 73/109: part-00073.parquet
+2025-03-17 06:09:30,669 - dataset_cleaner - INFO - Successfully uploaded part-00073.parquet
+2025-03-17 06:09:30,670 - dataset_cleaner - INFO - Uploading file 74/109: part-00074.parquet
+2025-03-17 06:09:31,834 - dataset_cleaner - INFO - Successfully uploaded part-00074.parquet
+2025-03-17 06:09:31,834 - dataset_cleaner - INFO - Uploading file 75/109: part-00075.parquet
+2025-03-17 06:09:33,268 - dataset_cleaner - INFO - Successfully uploaded part-00075.parquet
+2025-03-17 06:09:33,268 - dataset_cleaner - INFO - Uploading file 76/109: part-00076.parquet
+2025-03-17 06:09:34,701 - dataset_cleaner - INFO - Successfully uploaded part-00076.parquet
+2025-03-17 06:09:34,701 - dataset_cleaner - INFO - Uploading file 77/109: part-00077.parquet
+2025-03-17 06:09:36,749 - dataset_cleaner - INFO - Successfully uploaded part-00077.parquet
+2025-03-17 06:09:36,750 - dataset_cleaner - INFO - Uploading file 78/109: part-00078.parquet
+2025-03-17 06:09:37,876 - dataset_cleaner - INFO - Successfully uploaded part-00078.parquet
+2025-03-17 06:09:37,876 - dataset_cleaner - INFO - Uploading file 79/109: part-00079.parquet
+2025-03-17 06:09:39,616 - dataset_cleaner - INFO - Successfully uploaded part-00079.parquet
+2025-03-17 06:09:39,616 - dataset_cleaner - INFO - Uploading file 80/109: part-00080.parquet
+2025-03-17 06:09:40,862 - dataset_cleaner - INFO - Successfully uploaded part-00080.parquet
+2025-03-17 06:09:40,862 - dataset_cleaner - INFO - Uploading file 81/109: part-00081.parquet
+2025-03-17 06:09:42,381 - dataset_cleaner - INFO - Successfully uploaded part-00081.parquet
+2025-03-17 06:09:42,381 - dataset_cleaner - INFO - Uploading file 82/109: part-00082.parquet
+2025-03-17 06:09:43,483 - dataset_cleaner - INFO - Successfully uploaded part-00082.parquet
+2025-03-17 06:09:43,483 - dataset_cleaner - INFO - Uploading file 83/109: part-00083.parquet
+2025-03-17 06:09:44,736 - dataset_cleaner - INFO - Successfully uploaded part-00083.parquet
+2025-03-17 06:09:44,737 - dataset_cleaner - INFO - Uploading file 84/109: part-00084.parquet
+2025-03-17 06:09:45,979 - dataset_cleaner - INFO - Successfully uploaded part-00084.parquet
+2025-03-17 06:09:45,979 - dataset_cleaner - INFO - Uploading file 85/109: part-00085.parquet
+2025-03-17 06:09:48,321 - dataset_cleaner - INFO - Successfully uploaded part-00085.parquet
+2025-03-17 06:09:48,322 - dataset_cleaner - INFO - Uploading file 86/109: part-00086.parquet
+2025-03-17 06:09:52,415 - dataset_cleaner - INFO - Successfully uploaded part-00086.parquet
+2025-03-17 06:09:52,415 - dataset_cleaner - INFO - Uploading file 87/109: part-00087.parquet
+2025-03-17 06:09:54,772 - dataset_cleaner - INFO - Successfully uploaded part-00087.parquet
+2025-03-17 06:09:54,773 - dataset_cleaner - INFO - Uploading file 88/109: part-00088.parquet
+2025-03-17 06:09:56,715 - dataset_cleaner - INFO - Successfully uploaded part-00088.parquet
+2025-03-17 06:09:56,715 - dataset_cleaner - INFO - Uploading file 89/109: part-00089.parquet
+2025-03-17 06:09:58,765 - dataset_cleaner - INFO - Successfully uploaded part-00089.parquet
+2025-03-17 06:09:58,765 - dataset_cleaner - INFO - Uploading file 90/109: part-00090.parquet
+2025-03-17 06:10:01,837 - dataset_cleaner - INFO - Successfully uploaded part-00090.parquet
+2025-03-17 06:10:01,837 - dataset_cleaner - INFO - Uploading file 91/109: part-00091.parquet
+2025-03-17 06:10:03,782 - dataset_cleaner - INFO - Successfully uploaded part-00091.parquet
+2025-03-17 06:10:03,782 - dataset_cleaner - INFO - Uploading file 92/109: part-00092.parquet
+2025-03-17 06:10:05,216 - dataset_cleaner - INFO - Successfully uploaded part-00092.parquet
+2025-03-17 06:10:05,217 - dataset_cleaner - INFO - Uploading file 93/109: part-00093.parquet
+2025-03-17 06:10:12,671 - dataset_cleaner - INFO - Successfully uploaded part-00093.parquet
+2025-03-17 06:10:12,671 - dataset_cleaner - INFO - Uploading file 94/109: part-00094.parquet
+2025-03-17 06:10:14,082 - dataset_cleaner - INFO - Successfully uploaded part-00094.parquet
+2025-03-17 06:10:14,082 - dataset_cleaner - INFO - Uploading file 95/109: part-00095.parquet
+2025-03-17 06:10:15,456 - dataset_cleaner - INFO - Successfully uploaded part-00095.parquet
+2025-03-17 06:10:15,457 - dataset_cleaner - INFO - Uploading file 96/109: part-00096.parquet
+2025-03-17 06:10:16,793 - dataset_cleaner - INFO - Successfully uploaded part-00096.parquet
+2025-03-17 06:10:16,793 - dataset_cleaner - INFO - Uploading file 97/109: part-00097.parquet
+2025-03-17 06:10:18,939 - dataset_cleaner - INFO - Successfully uploaded part-00097.parquet
+2025-03-17 06:10:18,941 - dataset_cleaner - INFO - Uploading file 98/109: part-00098.parquet
+2025-03-17 06:10:20,475 - dataset_cleaner - INFO - Successfully uploaded part-00098.parquet
+2025-03-17 06:10:20,476 - dataset_cleaner - INFO - Uploading file 99/109: part-00099.parquet
+2025-03-17 06:10:22,695 - dataset_cleaner - INFO - Successfully uploaded part-00099.parquet
+2025-03-17 06:10:22,695 - dataset_cleaner - INFO - Uploading file 100/109: part-00100.parquet
+2025-03-17 06:10:23,980 - dataset_cleaner - INFO - Successfully uploaded part-00100.parquet
+2025-03-17 06:10:23,980 - dataset_cleaner - INFO - Uploading file 101/109: part-00101.parquet
+2025-03-17 06:10:25,495 - dataset_cleaner - INFO - Successfully uploaded part-00101.parquet
+2025-03-17 06:10:25,495 - dataset_cleaner - INFO - Uploading file 102/109: part-00102.parquet
+2025-03-17 06:10:27,334 - dataset_cleaner - INFO - Successfully uploaded part-00102.parquet
+2025-03-17 06:10:27,334 - dataset_cleaner - INFO - Uploading file 103/109: part-00103.parquet
+2025-03-17 06:10:30,202 - dataset_cleaner - INFO - Successfully uploaded part-00103.parquet
+2025-03-17 06:10:30,203 - dataset_cleaner - INFO - Uploading file 104/109: part-00104.parquet
+2025-03-17 06:10:33,580 - dataset_cleaner - INFO - Successfully uploaded part-00104.parquet
+2025-03-17 06:10:33,581 - dataset_cleaner - INFO - Uploading file 105/109: part-00105.parquet
+2025-03-17 06:10:34,810 - dataset_cleaner - INFO - Successfully uploaded part-00105.parquet
+2025-03-17 06:10:34,810 - dataset_cleaner - INFO - Uploading file 106/109: part-00106.parquet
+2025-03-17 06:10:36,039 - dataset_cleaner - INFO - Successfully uploaded part-00106.parquet
+2025-03-17 06:10:36,039 - dataset_cleaner - INFO - Uploading file 107/109: part-00107.parquet
+2025-03-17 06:10:37,217 - dataset_cleaner - INFO - Successfully uploaded part-00107.parquet
+2025-03-17 06:10:37,218 - dataset_cleaner - INFO - Uploading file 108/109: part-00108.parquet
+2025-03-17 06:10:38,803 - dataset_cleaner - INFO - Successfully uploaded part-00108.parquet
+2025-03-17 06:10:38,804 - dataset_cleaner - INFO - Uploading file 109/109: part-00109.parquet
+2025-03-17 06:10:40,828 - dataset_cleaner - INFO - Successfully uploaded part-00109.parquet
+2025-03-17 06:10:41,366 - dataset_cleaner - INFO - Successfully uploaded metadata
+2025-03-17 06:10:41,367 - dataset_cleaner - INFO - Direct file upload successful!
+2025-03-17 06:10:41,368 - dataset_cleaner - INFO - Upload process completed
