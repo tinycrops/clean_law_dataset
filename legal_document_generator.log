@@ -1,0 +1,37 @@
+2025-03-17 19:36:07,688 - legal_document_generator - INFO - Starting legal document generation
+2025-03-17 19:36:07,689 - legal_document_generator - INFO - Loading data from processed_data
+2025-03-17 19:36:07,690 - legal_document_generator - INFO - Found 109 parquet files
+2025-03-17 19:36:10,097 - legal_document_generator - INFO - Loaded 541700 rows from 109 files
+2025-03-17 19:36:10,306 - legal_document_generator - INFO - Removed 91058 blank rows, 450642 rows remaining
+2025-03-17 19:36:10,427 - legal_document_generator - INFO - Found 432191 unique document IDs
+2025-03-17 19:36:10,427 - legal_document_generator - INFO - Sampling 100 documents
+2025-03-17 19:36:10,427 - legal_document_generator - ERROR - Error generating documents: name 'np' is not defined
+Traceback (most recent call last):
+  File "/home/ath/clean_law_dataset/legal-document-generator.py", line 374, in main
+    generator.generate_documents(sample_size=100)
+  File "/home/ath/clean_law_dataset/legal-document-generator.py", line 298, in generate_documents
+    doc_ids = np.random.choice(doc_ids, size=sample_size, replace=False)
+              ^^
+NameError: name 'np' is not defined
+2025-03-17 19:36:10,525 - legal_document_generator - INFO - Document generation complete
+2025-03-17 19:36:38,702 - legal_document_generator - INFO - Starting legal document generation
+2025-03-17 19:36:38,702 - legal_document_generator - INFO - Loading data from processed_data
+2025-03-17 19:36:38,703 - legal_document_generator - INFO - Found 109 parquet files
+2025-03-17 19:36:41,187 - legal_document_generator - INFO - Loaded 541700 rows from 109 files
+2025-03-17 19:36:41,386 - legal_document_generator - INFO - Removed 91058 blank rows, 450642 rows remaining
+2025-03-17 19:36:41,504 - legal_document_generator - INFO - Found 432191 unique document IDs
+2025-03-17 19:36:41,504 - legal_document_generator - INFO - Sampling 100 documents
+2025-03-17 19:36:41,525 - legal_document_generator - INFO - Creating document hierarchy
+2025-03-17 19:36:41,609 - legal_document_generator - INFO - Analyzing document relationships
+2025-03-17 19:36:41,610 - legal_document_generator - INFO - Generating documents
+2025-03-17 19:36:41,628 - legal_document_generator - INFO - Generating document index
+2025-03-17 19:36:41,630 - legal_document_generator - INFO - Generated 100 documents in generated_documents
+2025-03-17 19:36:41,711 - legal_document_generator - INFO - Document generation complete
+2025-03-17 19:39:01,765 - legal_document_generator - INFO - Starting legal document generation
+2025-03-17 19:39:01,766 - legal_document_generator - INFO - Loading data from processed_data
+2025-03-17 19:39:01,767 - legal_document_generator - INFO - Found 109 parquet files
+2025-03-17 19:39:03,836 - legal_document_generator - INFO - Loaded 541700 rows from 109 files
+2025-03-17 19:39:04,004 - legal_document_generator - INFO - Removed 91058 blank rows, 450642 rows remaining
+2025-03-17 19:39:04,101 - legal_document_generator - INFO - Found 432191 unique document IDs
+2025-03-17 19:39:04,101 - legal_document_generator - INFO - Creating document hierarchy
+2025-03-17 19:40:32,638 - legal_document_generator - INFO - Analyzing document relationships
