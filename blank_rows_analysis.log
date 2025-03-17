@@ -1,0 +1,17 @@
+2025-03-17 14:25:10,031 - blank_rows_analyzer - INFO - Starting blank rows analysis process
+2025-03-17 14:25:10,031 - blank_rows_analyzer - INFO - Analyzing processed files in processed_data
+2025-03-17 14:25:10,033 - blank_rows_analyzer - INFO - Found 109 parquet files
+2025-03-17 14:25:12,138 - blank_rows_analyzer - INFO - Analysis complete. Found 91089 blank rows out of 541700 total rows (16.82%)
+2025-03-17 14:25:12,144 - blank_rows_analyzer - INFO - Fetching original HTML content for blank rows
+2025-03-17 14:25:15,263 - blank_rows_analyzer - INFO - Loading original dataset (this may take a while)...
+2025-03-17 14:26:32,859 - blank_rows_analyzer - INFO - Processed 100 batches (100000 rows), matched 16654/91089 blank rows
+2025-03-17 14:27:42,147 - blank_rows_analyzer - INFO - Processed 200 batches (200000 rows), matched 33026/91089 blank rows
+2025-03-17 14:28:52,162 - blank_rows_analyzer - INFO - Processed 300 batches (300000 rows), matched 50177/91089 blank rows
+2025-03-17 14:30:14,624 - blank_rows_analyzer - INFO - Processed 400 batches (400000 rows), matched 67755/91089 blank rows
+2025-03-17 14:31:25,309 - blank_rows_analyzer - INFO - Processed 500 batches (500000 rows), matched 83968/91089 blank rows
+2025-03-17 14:31:53,662 - blank_rows_analyzer - ERROR - Error fetching original HTML: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2025-03-17 14:31:53,672 - blank_rows_analyzer - INFO - Analyzing HTML patterns in blank rows
+2025-03-17 14:32:12,327 - blank_rows_analyzer - INFO - Pattern analysis complete. Found 8 distinct patterns
+2025-03-17 14:32:12,342 - blank_rows_analyzer - WARNING - Failed to save Excel file: No module named 'openpyxl'
+2025-03-17 14:32:12,460 - blank_rows_analyzer - INFO - Analysis results saved to analysis_results
+2025-03-17 14:32:12,461 - blank_rows_analyzer - INFO - Analysis completed

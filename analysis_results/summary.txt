@@ -1,0 +1,18 @@
+Analysis Summary
+===============
+
+Total rows analyzed: 541,700
+Blank rows found: 91,089
+Blank percentage: 16.82%
+
+Common HTML Patterns in Blank Rows:
+==================================
+
+- Only whitespace after parsing: 91,089 (100.00%)
+- Empty div: 45,258 (49.69%)
+- Empty div with br: 45,214 (49.64%)
+- Short content: <br>...: 53 (0.06%)
+- Short content: ...: 47 (0.05%)
+- Div with non-breaking space: 0 (0.00%)
+- Contains image tags: 0 (0.00%)
+- Contains table tags: 0 (0.00%)

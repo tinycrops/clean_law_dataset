@@ -1,0 +1,2 @@
+total_records,blank_text_count,blank_text_percentage,blank_title_count,blank_title_percentage,both_blank_count,both_blank_percentage,whitespace_only_count,whitespace_only_percentage,very_short_count,very_short_percentage,text_length_statistics
+1000,100,10.0,0,0.0,0,0.0,0,0.0,0,0.0,"{'average': np.float64(1710.111111111111), 'median': np.float64(261.0), 'min': np.int64(77), 'max': np.int64(9682), '25th_percentile': np.float64(258.0), '75th_percentile': np.float64(462.0)}"

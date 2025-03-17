@@ -1,0 +1,93 @@
+2025-03-17 13:43:29,295 - blank_text_analyzer - INFO - Starting blank text field analysis
+2025-03-17 13:43:29,295 - blank_text_analyzer - INFO - Loading dataset tinycrops/clean_american_law (split: train)...
+2025-03-17 13:43:48,043 - blank_text_analyzer - ERROR - Error analyzing dataset: An error occurred while generating the dataset
+2025-03-17 13:43:48,043 - blank_text_analyzer - ERROR - Make sure the dataset exists and is accessible
+2025-03-17 13:43:48,043 - blank_text_analyzer - ERROR - Analysis failed: An error occurred while generating the dataset
+2025-03-17 13:43:48,045 - blank_text_analyzer - ERROR - Traceback (most recent call last):
+  File "/home/ath/miniconda3/envs/sakana/lib/python3.12/site-packages/datasets/builder.py", line 1855, in _prepare_split_single
+    for _, table in generator:
+  File "/home/ath/miniconda3/envs/sakana/lib/python3.12/site-packages/datasets/packaged_modules/parquet/parquet.py", line 90, in _generate_tables
+    if parquet_fragment.row_groups:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pyarrow/_dataset_parquet.pyx", line 386, in pyarrow._dataset_parquet.ParquetFileFragment.row_groups.__get__
+  File "pyarrow/_dataset_parquet.pyx", line 393, in pyarrow._dataset_parquet.ParquetFileFragment.metadata.__get__
+  File "pyarrow/_dataset_parquet.pyx", line 382, in pyarrow._dataset_parquet.ParquetFileFragment.ensure_complete_metadata
+  File "pyarrow/error.pxi", line 92, in pyarrow.lib.check_status
+pyarrow.lib.ArrowInvalid: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ath/clean_law_dataset/blank-text-analyzer.py", line 280, in main
+    results = analyze_blank_text_fields(dataset_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ath/clean_law_dataset/blank-text-analyzer.py", line 36, in analyze_blank_text_fields
+    dataset = load_dataset(dataset_name, split=split)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ath/miniconda3/envs/sakana/lib/python3.12/site-packages/datasets/load.py", line 2083, in load_dataset
+    builder_instance.download_and_prepare(
+  File "/home/ath/miniconda3/envs/sakana/lib/python3.12/site-packages/datasets/builder.py", line 925, in download_and_prepare
+    self._download_and_prepare(
+  File "/home/ath/miniconda3/envs/sakana/lib/python3.12/site-packages/datasets/builder.py", line 1001, in _download_and_prepare
+    self._prepare_split(split_generator, **prepare_split_kwargs)
+  File "/home/ath/miniconda3/envs/sakana/lib/python3.12/site-packages/datasets/builder.py", line 1742, in _prepare_split
+    for job_id, done, content in self._prepare_split_single(
+  File "/home/ath/miniconda3/envs/sakana/lib/python3.12/site-packages/datasets/builder.py", line 1898, in _prepare_split_single
+    raise DatasetGenerationError("An error occurred while generating the dataset") from e
+datasets.exceptions.DatasetGenerationError: An error occurred while generating the dataset
+
+2025-03-17 13:43:48,045 - blank_text_analyzer - INFO - Analysis completed
+2025-03-17 13:48:34,605 - blank_text_analyzer - INFO - Starting blank text field analysis
+2025-03-17 13:48:34,605 - blank_text_analyzer - INFO - Loading dataset tinycrops/clean_american_law (split: train) in streaming mode...
+2025-03-17 13:48:38,858 - blank_text_analyzer - INFO - Dataset loaded in streaming mode. Analyzing a sample of 1000 records...
+2025-03-17 13:48:38,859 - blank_text_analyzer - WARNING - Error collecting batch (attempt 1/5): name 'itertools' is not defined
+2025-03-17 13:48:38,859 - blank_text_analyzer - INFO - Skipping 79 records and trying again
+2025-03-17 13:48:38,859 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:38,860 - blank_text_analyzer - WARNING - Error collecting batch (attempt 2/5): name 'itertools' is not defined
+2025-03-17 13:48:38,860 - blank_text_analyzer - INFO - Skipping 26 records and trying again
+2025-03-17 13:48:38,860 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:38,860 - blank_text_analyzer - WARNING - Error collecting batch (attempt 3/5): name 'itertools' is not defined
+2025-03-17 13:48:38,860 - blank_text_analyzer - INFO - Skipping 13 records and trying again
+2025-03-17 13:48:38,860 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:38,860 - blank_text_analyzer - WARNING - Error collecting batch (attempt 4/5): name 'itertools' is not defined
+2025-03-17 13:48:38,860 - blank_text_analyzer - INFO - Skipping 76 records and trying again
+2025-03-17 13:48:38,860 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:38,860 - blank_text_analyzer - WARNING - Error collecting batch (attempt 5/5): name 'itertools' is not defined
+2025-03-17 13:48:38,860 - blank_text_analyzer - ERROR - Failed to collect data after 5 attempts
+2025-03-17 13:48:38,861 - blank_text_analyzer - WARNING - Could not collect sample records. Falling back to batch-by-batch analysis
+2025-03-17 13:48:38,861 - blank_text_analyzer - INFO - Analyzing dataset tinycrops/clean_american_law (split: train) batch by batch...
+2025-03-17 13:48:40,360 - blank_text_analyzer - WARNING - Error processing batch: name 'itertools' is not defined
+2025-03-17 13:48:40,361 - blank_text_analyzer - INFO - Skipping 198 records and trying again
+2025-03-17 13:48:40,361 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:41,362 - blank_text_analyzer - WARNING - Error processing batch: name 'itertools' is not defined
+2025-03-17 13:48:41,362 - blank_text_analyzer - INFO - Skipping 196 records and trying again
+2025-03-17 13:48:41,362 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:42,363 - blank_text_analyzer - WARNING - Error processing batch: name 'itertools' is not defined
+2025-03-17 13:48:42,363 - blank_text_analyzer - INFO - Skipping 122 records and trying again
+2025-03-17 13:48:42,364 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:43,364 - blank_text_analyzer - WARNING - Error processing batch: name 'itertools' is not defined
+2025-03-17 13:48:43,364 - blank_text_analyzer - INFO - Skipping 122 records and trying again
+2025-03-17 13:48:43,365 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:44,365 - blank_text_analyzer - WARNING - Error processing batch: name 'itertools' is not defined
+2025-03-17 13:48:44,366 - blank_text_analyzer - INFO - Skipping 116 records and trying again
+2025-03-17 13:48:44,366 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:45,366 - blank_text_analyzer - WARNING - Error processing batch: name 'itertools' is not defined
+2025-03-17 13:48:45,367 - blank_text_analyzer - INFO - Skipping 132 records and trying again
+2025-03-17 13:48:45,367 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:46,367 - blank_text_analyzer - WARNING - Error processing batch: name 'itertools' is not defined
+2025-03-17 13:48:46,368 - blank_text_analyzer - INFO - Skipping 185 records and trying again
+2025-03-17 13:48:46,368 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:47,368 - blank_text_analyzer - WARNING - Error processing batch: name 'itertools' is not defined
+2025-03-17 13:48:47,369 - blank_text_analyzer - INFO - Skipping 180 records and trying again
+2025-03-17 13:48:47,369 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:48:48,370 - blank_text_analyzer - WARNING - Error processing batch: name 'itertools' is not defined
+2025-03-17 13:48:48,370 - blank_text_analyzer - INFO - Skipping 149 records and trying again
+2025-03-17 13:48:48,371 - blank_text_analyzer - WARNING - Error while skipping records: name 'itertools' is not defined
+2025-03-17 13:50:24,777 - blank_text_analyzer - INFO - Starting blank text field analysis
+2025-03-17 13:50:24,777 - blank_text_analyzer - INFO - Attempting streaming analysis...
+2025-03-17 13:50:24,777 - blank_text_analyzer - INFO - Loading dataset tinycrops/clean_american_law (split: train) in streaming mode...
+2025-03-17 13:51:16,849 - blank_text_analyzer - INFO - Analysis complete!
+2025-03-17 13:51:16,849 - blank_text_analyzer - INFO - Total records analyzed: 1000
+2025-03-17 13:51:16,849 - blank_text_analyzer - INFO - Records with blank clean_text: 100 (10.00%)
+2025-03-17 13:51:16,857 - blank_text_analyzer - INFO - Results saved to blank_text_analysis_results.csv
+2025-03-17 13:51:16,857 - blank_text_analyzer - INFO - Analysis completed
