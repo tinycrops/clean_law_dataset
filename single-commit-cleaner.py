@@ -13,6 +13,8 @@ import traceback
 import gc
 from concurrent.futures import ProcessPoolExecutor, as_completed
 import pyarrow as pa
+import json
+from pathlib import Path
 
 # Set up logging
 logging.basicConfig(
@@ -112,41 +114,88 @@ def process_batch(batch):
         logger.error(traceback.format_exc())
         return None
 
-def upload_to_hub(dataset, repo_name, token):
+def save_dataset_locally(dataset, output_dir, part_num):
     """
-    Upload dataset to Hugging Face Hub with retry logic
+    Save a dataset to local storage in parquet format
     """
-    max_retries = 5
-    retry_delay = 10
-    
-    for attempt in range(max_retries):
-        try:
-            dataset.push_to_hub(
-                repo_name,
-                private=False,
-                token=token,
-                max_shard_size="500MB"  # Add sharding to handle large uploads
-            )
-            logger.info(f"Successfully uploaded to {repo_name}")
-            return True
-        except Exception as e:
-            logger.warning(f"Upload attempt {attempt+1} failed: {str(e)}")
-            if attempt < max_retries - 1:
-                logger.info(f"Retrying in {retry_delay} seconds...")
-                time.sleep(retry_delay)
-                retry_delay *= 1.5  # Less aggressive backoff
-            else:
-                logger.error("All upload attempts failed")
-                return False
+    try:
+        os.makedirs(output_dir, exist_ok=True)
+        file_path = os.path.join(output_dir, f"part-{part_num:05d}.parquet")
+        dataset.to_parquet(file_path)
+        return file_path
+    except Exception as e:
+        logger.error(f"Error saving dataset part {part_num}: {str(e)}")
+        logger.error(traceback.format_exc())
+        return None
 
-def process_dataset(batch_size=100, num_workers=4):
+def upload_entire_dataset(output_dir, repo_name, token):
     """
-    Process the dataset in batches using parallel processing
+    Upload the entire dataset to Hugging Face Hub at once
     """
-    # Load the dataset in streaming mode with correct parameters
+    try:
+        # Create a Dataset object from all the parquet files
+        logger.info(f"Loading all parquet files from {output_dir} for final upload")
+        
+        # Get all parquet files
+        parquet_files = sorted(list(Path(output_dir).glob("*.parquet")))
+        
+        if not parquet_files:
+            logger.error("No parquet files found to upload")
+            return False
+        
+        logger.info(f"Found {len(parquet_files)} parquet files to upload")
+        
+        # Create a dataset from the files
+        dataset = Dataset.from_parquet(parquet_files)
+        
+        # Upload to Hugging Face
+        logger.info(f"Uploading final dataset to {repo_name}")
+        
+        # Retry mechanism for upload
+        max_retries = 5
+        retry_delay = 60  # Start with a longer delay due to rate limits
+        
+        for attempt in range(max_retries):
+            try:
+                dataset.push_to_hub(
+                    repo_name,
+                    private=False,
+                    token=token,
+                    max_shard_size="1GB"  # Use larger shards for the final upload
+                )
+                logger.info(f"Successfully uploaded entire dataset to {repo_name}")
+                return True
+            except Exception as e:
+                if "Too Many Requests" in str(e) or "429" in str(e):
+                    wait_time = retry_delay * (2 ** attempt)  # Exponential backoff
+                    logger.warning(f"Rate limited. Waiting {wait_time} seconds before retry.")
+                    time.sleep(wait_time)
+                else:
+                    logger.warning(f"Upload attempt {attempt+1} failed: {str(e)}")
+                    if attempt < max_retries - 1:
+                        logger.info(f"Retrying in {retry_delay} seconds...")
+                        time.sleep(retry_delay)
+                        retry_delay *= 2
+                    else:
+                        logger.error("All upload attempts failed")
+                        return False
+        
+        return False
+    except Exception as e:
+        logger.error(f"Error in final dataset upload: {str(e)}")
+        logger.error(traceback.format_exc())
+        return False
+
+def process_dataset(batch_size=100, num_workers=4, output_dir="processed_data"):
+    """
+    Process the dataset in batches using parallel processing and save locally
+    """
+    # Create output directory
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Load the dataset in streaming mode
     logger.info("Loading dataset (this may take a while for large datasets)...")
     try:
-        # Fix: Use standard loading without custom download config
         dataset = load_dataset(
             "the-ride-never-ends/american_law", 
             split="train", 
@@ -172,17 +221,6 @@ def process_dataset(batch_size=100, num_workers=4):
         logger.error(f"Failed to log in to Hugging Face: {str(e)}")
         return
     
-    # Initialize counter for processed batches
-    processed_count = 0
-    uploaded_count = 0
-    error_count = 0
-    
-    # Initialize an empty list to store processed batches
-    processed_batches = []
-    
-    # Start timing
-    start_time = time.time()
-    
     # Create the repository first if it doesn't exist
     try:
         api = HfApi()
@@ -192,6 +230,40 @@ def process_dataset(batch_size=100, num_workers=4):
     except Exception as e:
         logger.warning(f"Error checking/creating repository: {str(e)}")
         # Continue anyway, as it might already exist
+    
+    # Initialize counters
+    processed_count = 0
+    saved_count = 0
+    error_count = 0
+    part_num = 0
+    
+    # Start timing
+    start_time = time.time()
+    
+    # Save metadata file to track progress
+    def update_metadata():
+        metadata = {
+            "processed_batches": processed_count,
+            "saved_parts": saved_count,
+            "errors": error_count,
+            "last_part": part_num,
+            "timestamp": time.time()
+        }
+        with open(os.path.join(output_dir, "metadata.json"), "w") as f:
+            json.dump(metadata, f, indent=2)
+    
+    # Check if we have a metadata file to resume from
+    if os.path.exists(os.path.join(output_dir, "metadata.json")):
+        try:
+            with open(os.path.join(output_dir, "metadata.json"), "r") as f:
+                metadata = json.load(f)
+                processed_count = metadata.get("processed_batches", 0)
+                saved_count = metadata.get("saved_parts", 0)
+                error_count = metadata.get("errors", 0)
+                part_num = metadata.get("last_part", 0)
+                logger.info(f"Resuming from previous run. Processed {processed_count} batches, saved {saved_count} parts.")
+        except Exception as e:
+            logger.warning(f"Error loading metadata, starting fresh: {str(e)}")
     
     # Set up process pool
     with ProcessPoolExecutor(max_workers=num_workers) as executor:
@@ -206,6 +278,8 @@ def process_dataset(batch_size=100, num_workers=4):
         try:
             # Collect and process batches
             batch_count = 0
+            processed_batches = []
+            
             while True:
                 try:
                     # Get a batch with retry logic
@@ -240,6 +314,7 @@ def process_dataset(batch_size=100, num_workers=4):
                     # Log progress periodically
                     if batch_count % 100 == 0:
                         logger.info(f"Processed {batch_count} batches so far")
+                        update_metadata()
                     
                     # If we have enough futures, start processing results
                     if len(futures) >= num_workers * 2:
@@ -257,23 +332,19 @@ def process_dataset(batch_size=100, num_workers=4):
                                     processed_batches.append(batch_dataset)
                                     processed_count += 1
                                     
-                                    # Upload periodically
-                                    if len(processed_batches) >= 10:
-                                        logger.info(f"Combining {len(processed_batches)} processed batches for upload")
-                                        
+                                    # Save locally periodically
+                                    if len(processed_batches) >= 50:  # Save every 50 batches
                                         try:
                                             # Combine processed batches
                                             combined_dataset = concatenate_datasets(processed_batches)
                                             
-                                            # Upload to Hugging Face
-                                            upload_success = upload_to_hub(
-                                                combined_dataset,
-                                                "tinycrops/clean_american_law",
-                                                hf_token
-                                            )
+                                            # Save to disk
+                                            part_num += 1
+                                            file_path = save_dataset_locally(combined_dataset, output_dir, part_num)
                                             
-                                            if upload_success:
-                                                uploaded_count += 1
+                                            if file_path:
+                                                saved_count += 1
+                                                logger.info(f"Saved part {part_num} to {file_path}")
                                             
                                             # Clear the list to free memory
                                             processed_batches = []
@@ -281,8 +352,11 @@ def process_dataset(batch_size=100, num_workers=4):
                                             # Force garbage collection
                                             gc.collect()
                                             
+                                            # Update metadata
+                                            update_metadata()
+                                            
                                         except Exception as e:
-                                            logger.error(f"Error combining or uploading batches: {str(e)}")
+                                            logger.error(f"Error combining or saving batches: {str(e)}")
                                             logger.error(traceback.format_exc())
                                             # Keep the processed batches and try again next time
                             except Exception as e:
@@ -303,6 +377,8 @@ def process_dataset(batch_size=100, num_workers=4):
         
         except KeyboardInterrupt:
             logger.info("Process interrupted by user")
+            # Save metadata before exiting
+            update_metadata()
         
         # Process any remaining futures
         logger.info(f"Processing {len(futures)} remaining futures")
@@ -318,19 +394,31 @@ def process_dataset(batch_size=100, num_workers=4):
     
     # Process any remaining batches
     if processed_batches:
-        logger.info(f"Processing final {len(processed_batches)} batches")
+        logger.info(f"Saving final {len(processed_batches)} processed batches")
         try:
             combined_dataset = concatenate_datasets(processed_batches)
-            upload_success = upload_to_hub(
-                combined_dataset,
-                "tinycrops/clean_american_law",
-                hf_token
-            )
-            if upload_success:
-                uploaded_count += 1
+            part_num += 1
+            file_path = save_dataset_locally(combined_dataset, output_dir, part_num)
+            
+            if file_path:
+                saved_count += 1
+                logger.info(f"Saved final part {part_num} to {file_path}")
+            
+            # Update metadata
+            update_metadata()
         except Exception as e:
-            logger.error(f"Error processing final batches: {str(e)}")
+            logger.error(f"Error saving final batches: {str(e)}")
             logger.error(traceback.format_exc())
+    
+    # Upload the entire dataset to Hugging Face
+    logger.info("Processing complete. Starting final upload to Hugging Face...")
+    upload_success = upload_entire_dataset(output_dir, "tinycrops/clean_american_law", hf_token)
+    
+    if upload_success:
+        logger.info("Final upload to Hugging Face successful!")
+    else:
+        logger.error("Final upload to Hugging Face failed. You can retry manually later.")
+        logger.info(f"The processed data is available in the {output_dir} directory")
     
     # Calculate and log processing statistics
     end_time = time.time()
@@ -340,7 +428,7 @@ def process_dataset(batch_size=100, num_workers=4):
     
     logger.info(f"Dataset processing completed in {int(hours)}h {int(minutes)}m {int(seconds)}s")
     logger.info(f"Processed {processed_count} batches successfully out of {batch_count} total batches")
-    logger.info(f"Uploaded {uploaded_count} times")
+    logger.info(f"Saved {saved_count} parts locally")
     logger.info(f"Encountered {error_count} errors during processing")
 
 def main():
