@@ -58,3 +58,11 @@ NameError: name 'np' is not defined
 2025-03-17 21:32:28,120 - legal_document_generator - INFO - Extracting document structure
 2025-03-17 21:36:26,184 - legal_document_generator - INFO - Extracted structure for 432191 documents
 2025-03-17 21:36:26,206 - legal_document_generator - INFO - Identifying document relationships
+2025-03-18 01:00:23,495 - legal_document_generator - INFO - Identified 382538 documents in hierarchical relationships
+2025-03-18 01:00:23,515 - legal_document_generator - INFO - Generating document tree
+2025-03-18 01:00:23,611 - legal_document_generator - INFO - Found 55509 root documents
+2025-03-18 01:00:24,718 - legal_document_generator - INFO - Exporting documents to generated_documents
+2025-03-18 01:01:41,376 - legal_document_generator - INFO - Successfully exported 55509 root documents with their hierarchies
+2025-03-18 01:01:41,376 - legal_document_generator - INFO - Export statistics: {'total_rows': 541700, 'documents_processed': 432191, 'hierarchical_documents': 382538, 'standalone_documents': 49653}
+2025-03-18 01:01:41,431 - legal_document_generator - INFO - Document generation completed successfully
+2025-03-18 01:01:41,799 - legal_document_generator - INFO - Document generation process completed

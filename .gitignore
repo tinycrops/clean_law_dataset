@@ -1,3 +1,5 @@
 .env
 
 processed_data/
+generated_documents/
+generated_documents.zip
