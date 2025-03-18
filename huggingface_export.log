@@ -1,0 +1,45 @@
+2025-03-18 02:19:48,600 - huggingface_export - INFO - Starting export process for tinycrops
+2025-03-18 02:19:49,542 - huggingface_export - INFO - Loaded document index with 432191 documents
+2025-03-18 02:19:49,744 - huggingface_export - INFO - Found 55509 root document directories
+2025-03-18 02:19:49,744 - huggingface_export - INFO - Creating standardized dataset
+2025-03-18 02:20:31,869 - huggingface_export - INFO - Created dataset with 432191 documents
+2025-03-18 02:21:22,266 - huggingface_export - INFO - Saved dataset CSV to hf_dataset/dataset.csv
+2025-03-18 02:21:22,266 - huggingface_export - INFO - Creating Hugging Face dataset
+2025-03-18 02:21:36,962 - huggingface_export - INFO - Saving dataset locally to hf_dataset
+2025-03-18 02:21:38,558 - huggingface_export - ERROR - Error processing documents: name 'structure' is not defined
+2025-03-18 02:21:38,562 - huggingface_export - ERROR - Traceback (most recent call last):
+  File "/home/ath/clean_law_dataset/huggingface-export-script.py", line 372, in process
+    readme_path = self.create_readme()
+                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ath/clean_law_dataset/huggingface-export-script.py", line 316, in create_readme
+    print(f"Document has {len(structure['children'])} children")
+                              ^^^^^^^^^
+NameError: name 'structure' is not defined
+
+2025-03-18 02:21:39,050 - huggingface_export - ERROR - Export failed
+2025-03-18 02:22:48,265 - huggingface_export - INFO - Starting export process for tinycrops
+2025-03-18 02:22:49,826 - huggingface_export - INFO - Loaded document index with 432191 documents
+2025-03-18 02:22:50,138 - huggingface_export - INFO - Found 55509 root document directories
+2025-03-18 02:22:50,138 - huggingface_export - INFO - Creating standardized dataset
+2025-03-18 02:25:15,931 - huggingface_export - INFO - Created dataset with 432191 documents
+2025-03-18 02:26:47,237 - huggingface_export - INFO - Saved dataset CSV to hf_dataset/dataset.csv
+2025-03-18 02:26:47,237 - huggingface_export - INFO - Creating Hugging Face dataset
+2025-03-18 02:27:11,335 - huggingface_export - INFO - Saving dataset locally to hf_dataset
+2025-03-18 02:27:20,868 - huggingface_export - INFO - Created README at hf_dataset/README.md
+2025-03-18 02:27:20,869 - huggingface_export - INFO - No Hugging Face token provided, skipping upload
+2025-03-18 02:27:20,869 - huggingface_export - INFO - Dataset saved locally at hf_dataset
+2025-03-18 02:27:21,805 - huggingface_export - INFO - Export completed successfully
+2025-03-18 02:29:33,980 - huggingface_export - INFO - Starting export process for tinycrops
+2025-03-18 02:29:35,529 - huggingface_export - INFO - Loaded document index with 432191 documents
+2025-03-18 02:29:35,882 - huggingface_export - INFO - Found 55509 root document directories
+2025-03-18 02:29:35,883 - huggingface_export - INFO - Creating standardized dataset
+2025-03-18 02:31:47,369 - huggingface_export - INFO - Created dataset with 432191 documents
+2025-03-18 02:32:51,372 - huggingface_export - INFO - Saved dataset CSV to hf_dataset/dataset.csv
+2025-03-18 02:32:51,372 - huggingface_export - INFO - Creating Hugging Face dataset
+2025-03-18 02:33:09,154 - huggingface_export - INFO - Saving dataset locally to hf_dataset
+2025-03-18 02:33:17,608 - huggingface_export - INFO - Created README at hf_dataset/README.md
+2025-03-18 02:33:17,609 - huggingface_export - INFO - Uploading dataset to Hugging Face as tinycrops/structured_legal_documents
+2025-03-18 02:33:17,936 - huggingface_hub._login - WARNING - Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+2025-03-18 02:52:18,446 - huggingface_export - INFO - Successfully uploaded dataset to tinycrops/structured_legal_documents
+2025-03-18 02:52:18,447 - huggingface_export - INFO - Dataset available at: https://huggingface.co/datasets/tinycrops/structured_legal_documents
+2025-03-18 02:52:19,112 - huggingface_export - INFO - Export completed successfully
