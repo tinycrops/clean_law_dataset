@@ -1,0 +1,100 @@
+
+:root {
+    --accent-color: #fcb614;
+    --accent-color-light: #ffb711;
+    --accent-color-lighter: #ffb711;
+    --accent-color-dark: #eaaf26;
+    --accent-color-darker: #d8a838;
+    --accent-color-contrast: #333333;
+    --accent-color-contrast-faded: #4a4a4a;
+    --accent-border-color: #fcb614;
+    --accent-border-color-light: #ffb711;
+    --accent-border-color-lighter: #ffb711;
+    --accent-border-color-dark: #eaaf26;
+    --accent-border-color-darker: #d8a838;
+    --accent-border-color-contrast: #333333;
+    --accent-border-color-contrast-faded: #4a4a4a;
+    --accent-highlight-color: #49a942;
+    --accent-highlight-color-light: #3abb30;
+    --accent-highlight-color-lighter: #2bcc1f;
+    --accent-highlight-color-dark: #589754;
+    --accent-highlight-color-darker: #678665;
+    --accent-highlight-color-contrast: #333333;
+    --accent-highlight-color-contrast-faded: #4a4a4a;
+    --accent-line-color: #49a942;
+    --accent-line-color-light: #3abb30;
+    --accent-line-color-lighter: #2bcc1f;
+    --accent-line-color-dark: #589754;
+    --accent-line-color-darker: #678665;
+    --accent-line-color-contrast: #333333;
+    --accent-line-color-contrast-faded: #4a4a4a;
+    --accent-text-color: #1f9dbb;
+    --accent-text-color-light: #0fa7cb;
+    --accent-text-color-lighter: #00b0da;
+    --accent-text-color-dark: #2f93ab;
+    --accent-text-color-darker: #40899a;
+    --accent-text-color-contrast: #333333;
+    --accent-text-color-contrast-faded: #4a4a4a;
+    --banner-color: #3b6fb8;
+    --banner-color-light: #296cca;
+    --banner-color-lighter: #1769dc;
+    --banner-color-dark: #4d72a6;
+    --banner-color-darker: #5f7594;
+    --banner-color-contrast: #ffffff;
+    --banner-color-contrast-faded: #d9d9d9;
+}
+
+  /*noinspection CssUnknownTarget*/
+  #top {
+      background-image: url(/customization/HU4937/banner?ts=1709147206675);
+    background-position: center;
+    background-size: 940px 106px;
+    background-repeat: no-repeat;
+  }
+
+  #muniName, #countyName {
+    display: none;
+  }
+
+  #websiteLink {
+    position: absolute;
+      left: 0px;
+      width: 940px;
+      top: 0px;
+      height: 106px;
+  }
+
+
+  .topButtonContainer, .topButtonContainer:first-child {
+    display: inline-block;
+    margin-left: 12px;
+    padding-left: 0;
+    position: relative;
+    border: 1px solid #000;
+    border-radius: 4px;
+    background-clip: padding-box;
+    background-color: #333;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
+  }
+
+  .topButton {
+    color: #fff;
+    padding: 7px 10px;
+    font-size: 16px;
+    display: block;
+    text-decoration: none;
+    font-weight: 500;
+    transition: opacity 0.2s;
+    opacity: 0.4;
+  }
+
+  .topButtonContainer:hover .topButton {
+    opacity: 1;
+  }
+  #topButtons {
+    top: 12px;
+  }
+
+  #topButtons {
+      right: 4px;
+  }
