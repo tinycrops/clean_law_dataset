@@ -1,0 +1,68 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "doc_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "doc_title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "cid": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "citation_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "full_citation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sql_query": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "part": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "section_main": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "congress": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "law_number": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "volume": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "page": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

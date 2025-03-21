@@ -1,0 +1,774 @@
+[
+  {
+    "doc_id": "COOR_CH70SU_ARTIINGE_S70-5DE",
+    "cid": "bafkreiey76tyo5euhld4c6cqmhjqbzfq5m6thxwjvwlmmf44ehivtwrbhq",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "33",
+      "part": "328",
+      "section": "328.3",
+      "sql_query": "SELECT * FROM cfr WHERE title = '33' AND part = '328'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '33' AND part = '328'"
+  },
+  {
+    "doc_id": "COOR_CH70SU_ARTIINGE_S70-5DE",
+    "cid": "bafkreiey76tyo5euhld4c6cqmhjqbzfq5m6thxwjvwlmmf44ehivtwrbhq",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "230",
+      "section": "230.3",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '230'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '230'"
+  },
+  {
+    "doc_id": "COOR_CH34FL_ARTIIFLDAPR_DIV3PRFLHARE_S34-66GEST",
+    "cid": "bafkreigpstjx46jb7urjqrxzyii2agvuzwyme7e5s6gbvcazks75hspd7i",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1334",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1334'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1334'"
+  },
+  {
+    "doc_id": "COOR_CH38HIPR_ARTIVHIPR_DIV4OR_S38-141REPR",
+    "cid": "bafkreifjmdt7obzzkqzckic4zfr4b3l2uorttznycjkl5y6epu34sxbhmm",
+    "citation_type": "Public Law",
+    "citation_details": {
+      "citation_type": "Public Law",
+      "congress": "89",
+      "law_number": "655",
+      "sql_query": "SELECT * FROM public_laws WHERE congress = '89' AND law_number = '655'"
+    },
+    "sql_query": "SELECT * FROM public_laws WHERE congress = '89' AND law_number = '655'"
+  },
+  {
+    "doc_id": "COOR_CH62SOWAMA_ARTIIIHAWA_DIV1GE_S62-74DE",
+    "cid": "bafkreigngq4c7wejqlqjke5abvudfodqclegnqg5abiz5gxvodpsvzc2ky",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "261",
+      "section": "261",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+  },
+  {
+    "doc_id": "COOR_CH62SOWAMA_ARTIIIHAWA_DIV1GE_S62-74DE",
+    "cid": "bafkreigngq4c7wejqlqjke5abvudfodqclegnqg5abiz5gxvodpsvzc2ky",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "261",
+      "section": "261.33",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+  },
+  {
+    "doc_id": "COOR_CH62SOWAMA_ARTIIIHAWA_DIV2GEFATRSTDI_S62-93PE",
+    "cid": "bafkreif56iiueeb23vsg3wppxcjo4pwfz7nhucwudb223pmpo3t3b652vm",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "122",
+      "section": "122.17",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '122'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '122'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH10BUBURE",
+    "cid": "bafkreihci2shplenvdhdgasof6wbplocn7vshov2c3mrodixufhnlppzx4",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "40",
+      "section": "3312",
+      "sql_query": "SELECT * FROM usc WHERE title = '40' AND section = '3312'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '40' AND section = '3312'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH26EN_ARTIINGE_S26-10SPDE",
+    "cid": "bafkreigd4v2tnjvnt2rgjtsya7vdfoa4iolairrtzogeex4m6bbmahgiti",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "22",
+      "section": "1292",
+      "sql_query": "SELECT * FROM usc WHERE title = '22' AND section = '1292'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '22' AND section = '1292'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH26EN_ARTXHAWALVERAWAMA_S26-308DE",
+    "cid": "bafkreif2ey4vnm355dw3pduwnux3ex6iztatqp3ubn6oxv7iuaevn33mbm",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "261",
+      "section": "261",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH26EN_ARTXHAWALVERAWAMA_S26-308DE",
+    "cid": "bafkreif2ey4vnm355dw3pduwnux3ex6iztatqp3ubn6oxv7iuaevn33mbm",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "261",
+      "section": "261",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH26EN_ARTXHAWALVERAWAMA_S26-308DE",
+    "cid": "bafkreif2ey4vnm355dw3pduwnux3ex6iztatqp3ubn6oxv7iuaevn33mbm",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "260",
+      "section": "260",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '260'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '260'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH26EN_ARTXHAWALVERAWAMA_S26-318WACLFU",
+    "cid": "bafkreig4pbtnw5smfgnyxm37gtakumwoycgqa7u4lrki647yprfq25knn4",
+    "citation_type": "Public Law",
+    "citation_details": {
+      "citation_type": "Public Law",
+      "congress": "96",
+      "law_number": "510",
+      "sql_query": "SELECT * FROM public_laws WHERE congress = '96' AND law_number = '510'"
+    },
+    "sql_query": "SELECT * FROM public_laws WHERE congress = '96' AND law_number = '510'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH34FL_ARTIINGE_S34-4DE",
+    "cid": "bafkreibgymaousvb47cl7n47wsstfo7yjnthhgez3hdzfq6ifb3jtinq44",
+    "citation_type": "Public Law",
+    "citation_details": {
+      "citation_type": "Public Law",
+      "congress": "97",
+      "law_number": "348",
+      "sql_query": "SELECT * FROM public_laws WHERE congress = '97' AND law_number = '348'"
+    },
+    "sql_query": "SELECT * FROM public_laws WHERE congress = '97' AND law_number = '348'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE",
+    "cid": "bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1317(b)",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1317(b)'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1317(b)'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE",
+    "cid": "bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1342",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1342'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1342'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE",
+    "cid": "bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1345",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1345'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1345'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE",
+    "cid": "bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1317(b)",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1317(b)'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1317(b)'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE",
+    "cid": "bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1342",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1342'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1342'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE",
+    "cid": "bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1317(c)",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1317(c)'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1317(c)'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE",
+    "cid": "bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1292",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1292'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1292'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE",
+    "cid": "bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.5",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE",
+    "cid": "bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.6",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-155FECAPRST",
+    "cid": "bafkreidhw3ezx4ulfb6ckwpdtanmx35xri7fp763holcz3mu427m7n4b5q",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.12",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-156MOFECAPRST",
+    "cid": "bafkreiad3drdt2luijhqu2zzyyqhoswpqxe6cjnkto5cxowhe54gvssck4",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.7",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-156MOFECAPRST",
+    "cid": "bafkreiad3drdt2luijhqu2zzyyqhoswpqxe6cjnkto5cxowhe54gvssck4",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.7",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-170PECORE",
+    "cid": "bafkreid5e4r6zinhgprbw62hsugtbzb42fjhuwzyc74lxgqcpbvcpmmdnu",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "136",
+      "section": "136",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '136'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '136'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-170PECORE",
+    "cid": "bafkreid5e4r6zinhgprbw62hsugtbzb42fjhuwzyc74lxgqcpbvcpmmdnu",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "136",
+      "section": "136",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '136'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '136'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV2WACOPE_S70-182AP",
+    "cid": "bafkreifxl6rxmnxpuplanv453cakabdjujwrix2jfr2johkoxarulxba2i",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "136",
+      "section": "136",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '136'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '136'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH58SOWAMA_ARTIICOSTDI_S58-36STDI",
+    "cid": "bafkreigepkzokhnbh6whkvy6rfl4jawo72lr4i2xjepd2akffvevmovyu4",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "243",
+      "section": "243.200",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '243'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '243'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH58SOWAMA_ARTIINGE_S58-2DE",
+    "cid": "bafkreiexkfkwwxnlq4gjihvtcoporz3n3vkh2nwrgnqrb53awz7y5icfge",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "42",
+      "section": "2011",
+      "sql_query": "SELECT * FROM usc WHERE title = '42' AND section = '2011'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '42' AND section = '2011'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH58SOWAMA_ARTIINGE_S58-2DE",
+    "cid": "bafkreiexkfkwwxnlq4gjihvtcoporz3n3vkh2nwrgnqrb53awz7y5icfge",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "261",
+      "section": "261.4",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH58SOWAMA_ARTIINGE_S58-2DE",
+    "cid": "bafkreiexkfkwwxnlq4gjihvtcoporz3n3vkh2nwrgnqrb53awz7y5icfge",
+    "citation_type": "Public Law",
+    "citation_details": {
+      "citation_type": "Public Law",
+      "congress": "92",
+      "law_number": "500",
+      "sql_query": "SELECT * FROM public_laws WHERE congress = '92' AND law_number = '500'"
+    },
+    "sql_query": "SELECT * FROM public_laws WHERE congress = '92' AND law_number = '500'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR",
+    "cid": "bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1347",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1347'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1347'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR",
+    "cid": "bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1317",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1317'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1317'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR",
+    "cid": "bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1345",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1345'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1345'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR",
+    "cid": "bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "42",
+      "section": "6901",
+      "sql_query": "SELECT * FROM usc WHERE title = '42' AND section = '6901'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '42' AND section = '6901'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR",
+    "cid": "bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1342",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1342'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1342'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR",
+    "cid": "bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq",
+    "citation_type": "USC",
+    "citation_details": {
+      "citation_type": "USC",
+      "title": "33",
+      "section": "1292",
+      "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1292'"
+    },
+    "sql_query": "SELECT * FROM usc WHERE title = '33' AND section = '1292'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR",
+    "cid": "bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.11",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE",
+    "cid": "bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "261",
+      "section": "261.21",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE",
+    "cid": "bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.6",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE",
+    "cid": "bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.6",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE",
+    "cid": "bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.13",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE",
+    "cid": "bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.15",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE",
+    "cid": "bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.7",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE",
+    "cid": "bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.4",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-64WADIPEAPIS",
+    "cid": "bafkreietc35lydqrpg7so2drvmtpwnd3use7d26btew6zp5iu7tem2u4ti",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.3",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-64WADIPEAPIS",
+    "cid": "bafkreietc35lydqrpg7so2drvmtpwnd3use7d26btew6zp5iu7tem2u4ti",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.12",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-64WADIPEAPIS",
+    "cid": "bafkreietc35lydqrpg7so2drvmtpwnd3use7d26btew6zp5iu7tem2u4ti",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.13",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.6",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.6",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.12",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.12",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.6",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.12",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "261",
+      "section": "261.30",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "261",
+      "section": "261.30",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '261'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "136",
+      "section": "136",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '136'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '136'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "403",
+      "section": "403.12",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '403'"
+  },
+  {
+    "doc_id": "PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE",
+    "cid": "bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy",
+    "citation_type": "CFR",
+    "citation_details": {
+      "citation_type": "CFR",
+      "title": "40",
+      "part": "136",
+      "section": "136",
+      "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '136'"
+    },
+    "sql_query": "SELECT * FROM cfr WHERE title = '40' AND part = '136'"
+  }
+]

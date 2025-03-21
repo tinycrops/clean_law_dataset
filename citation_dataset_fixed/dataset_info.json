@@ -1,0 +1,91 @@
+{
+  "description": "American Law Citations Dataset",
+  "citation": "",
+  "homepage": "https://huggingface.co/datasets/tinycrops/american_law_citations",
+  "license": "mit",
+  "features": {
+    "doc_id": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "doc_title": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "cid": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "citation_type": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "full_citation": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "context": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "sql_query": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "title": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "section": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "section_main": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "part": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "congress": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "law_number": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "volume": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "page": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    }
+  },
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": null,
+      "num_examples": 111,
+      "dataset_name": "american_law_citations"
+    }
+  }
+}

@@ -1,0 +1,1233 @@
+doc_id,doc_title,cid,citation_type,full_citation,context,sql_query,title,part,section,section_main,congress,law_number,volume,page
+COOR_CH70SU_ARTIINGE_S70-5DE,"<div class=""chunk-title"">Sec. 70-5. - Definitions.</div>",bafkreiey76tyo5euhld4c6cqmhjqbzfq5m6thxwjvwlmmf44ehivtwrbhq,CFR,33 C.F.R. 328.3,"etlands generally
+               include swamps, marshes, bogs and similar areas. Wetlands classified as waters of
+               the state are restricted to waters of the United States as defined by 33 CFR 328.3
+               and 40 CFR 230.3.
+               </p>
+            <p class=""historynote0"">
+               (Ord. No. 10-10-05, Â§ 1, 10-5-10;
+               <a class=""ordinance-link"" href="""" data-produ",SELECT * FROM cfr WHERE title = '33' AND part = '328',33,328,328.3,,,,,
+COOR_CH70SU_ARTIINGE_S70-5DE,"<div class=""chunk-title"">Sec. 70-5. - Definitions.</div>",bafkreiey76tyo5euhld4c6cqmhjqbzfq5m6thxwjvwlmmf44ehivtwrbhq,CFR,40 C.F.R. 230.3," include swamps, marshes, bogs and similar areas. Wetlands classified as waters of
+               the state are restricted to waters of the United States as defined by 33 CFR 328.3
+               and 40 CFR 230.3.
+               </p>
+            <p class=""historynote0"">
+               (Ord. No. 10-10-05, Â§ 1, 10-5-10;
+               <a class=""ordinance-link"" href="""" data-product-id=""12776"" data-ordinance-id=",SELECT * FROM cfr WHERE title = '40' AND part = '230',40,230,230.3,,,,,
+COOR_CH34FL_ARTIIFLDAPR_DIV3PRFLHARE_S34-66GEST,"<div class=""chunk-title"">Sec. 34-66. - General standards.</div>",bafkreigpstjx46jb7urjqrxzyii2agvuzwyme7e5s6gbvcazks75hspd7i,USC,33 U.S.C. 1334," governmental agencies for which approval is required
+                  by federal or state law, including Section 404 of the Federal Water Pollution Control
+                  Act Amendments of 1972, 33 U.S.C. 1334.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (15)
+                  </p>
+               		
+               <p class=""content2"">
+        ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+COOR_CH38HIPR_ARTIVHIPR_DIV4OR_S38-141REPR,"<div class=""chunk-title"">Sec. 38-141. - Required procedures.</div>",bafkreifjmdt7obzzkqzckic4zfr4b3l2uorttznycjkl5y6epu34sxbhmm,Public Law,Public Law 89-655,"y listed (as certified by the secretary
+               of cultural resources) on the National Register of Historic Places established by
+               the National Historic Preservation Act of 1966, Public Law 89-655, 16 USCA Section
+               470a, as amended.
+               </p>
+            		
+            <p class=""incr1"">
+               (3)
+               </p>
+            		
+            <p class=""content2",SELECT * FROM public_laws WHERE congress = '89' AND law_number = '655',,,,,89,655,,
+COOR_CH62SOWAMA_ARTIIIHAWA_DIV1GE_S62-74DE,"<div class=""chunk-title"">Sec. 62-74. - Definitions.</div>",bafkreigngq4c7wejqlqjke5abvudfodqclegnqg5abiz5gxvodpsvzc2ky,CFR,40 C.F.R. 261," store, treat, or dispose of hazardous
+               wastes in the county.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">Hazardous waste</span> means as defined in 40 CFR 261. Determination that solid waste is a hazardous waste
+               shall be made in accordance with the waste determination clause from the state hazardous
+               waste rules.
+              ",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261,,,,,
+COOR_CH62SOWAMA_ARTIIIHAWA_DIV1GE_S62-74DE,"<div class=""chunk-title"">Sec. 62-74. - Definitions.</div>",bafkreigngq4c7wejqlqjke5abvudfodqclegnqg5abiz5gxvodpsvzc2ky,CFR,40 C.F.R. 261.33,"  generates more than 1,000 kilograms (2200 pounds) of hazardous waste in any calendar
+               month, or more than one kilogram (2.2 pounds) of acutely toxic waste as defined in
+               40 CFR 261.33(e).
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">100 to 1,000 kilogram generator</span> means one who generates between 100 and 1,000 kilograms (220 to 2,200 pound",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.33,,,,,
+COOR_CH62SOWAMA_ARTIIIHAWA_DIV2GEFATRSTDI_S62-93PE,"<div class=""chunk-title"">Sec. 62-93. - Permits.</div>",bafkreif56iiueeb23vsg3wppxcjo4pwfz7nhucwudb223pmpo3t3b652vm,CFR,40 C.F.R. 122.17,"ate and/or federal agency and shall include a copy of the
+               requested amendment to the state or federal permit. Except for minor amendments as
+               defined in the provisions of 40 CFR 122.17, the currently required fee shall accompany
+               each request for amendment of a county permit.
+               </p>
+            		
+            <p class=""incr0"">
+               (c)
+         ",SELECT * FROM cfr WHERE title = '40' AND part = '122',40,122,122.17,,,,,
+PTIICOOR_CH10BUBURE,"<div class=""chunk-title"">Chapter 10 - BUILDINGS AND BUILDING REGULATIONS<sup>[1]</sup></div>",bafkreihci2shplenvdhdgasof6wbplocn7vshov2c3mrodixufhnlppzx4,USC,40 U.S.C. 3312,"           Federal law referenceâ€”Compliance of federal buildings with local building codes and zoning laws, consideration
+               of local laws and cooperation with local officials required, 40 USC 3312.
+               </p>
+            
+            <p class=""refstatelawFN""><b>State Law referenceâ€” </b>
+               Building code council and building code, G.S. 143-136 et seq.; authority of county",SELECT * FROM usc WHERE title = '40' AND section = '3312',40,,3312,3312,,,,
+PTIICOOR_CH26EN_ARTIINGE_S26-10SPDE,"<div class=""chunk-title"">Sec. 26-10. - Specific definitions.</div>",bafkreigd4v2tnjvnt2rgjtsya7vdfoa4iolairrtzogeex4m6bbmahgiti,USC,22 U.S.C. 1292,"s=""ital"">POTW (publicly owned treatment works)</span> means the treatment works as defined by Section 212 of the Federal Water Pollution
+               Control Act, also known as the Clean Water Act (22 USC 1292), which are owned by the
+               county's wastewater host. This definition includes any devices or systems used in
+               the collection, storage, treatment, recycling, and reclamation",SELECT * FROM usc WHERE title = '22' AND section = '1292',22,,1292,1292,,,,
+PTIICOOR_CH26EN_ARTXHAWALVERAWAMA_S26-308DE,"<div class=""chunk-title"">Sec. 26-308. - Definitions.</div>",bafkreif2ey4vnm355dw3pduwnux3ex6iztatqp3ubn6oxv7iuaevn33mbm,CFR,40 C.F.R. 261,"y indicates
+               a different meaning:
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">Acute hazardous waste</span> means the same as defined in 40 CFR 261 or any other applicable state or federal
+               regulation.
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">Best available technology</span> mean",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261,,,,,
+PTIICOOR_CH26EN_ARTXHAWALVERAWAMA_S26-308DE,"<div class=""chunk-title"">Sec. 26-308. - Definitions.</div>",bafkreif2ey4vnm355dw3pduwnux3ex6iztatqp3ubn6oxv7iuaevn33mbm,CFR,40 C.F.R. 261,"y indicates
+               a different meaning:
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">Acute hazardous waste</span> means the same as defined in 40 CFR 261 or any other applicable state or federal
+               regulation.
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">Best available technology</span> mean",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261,,,,,
+PTIICOOR_CH26EN_ARTXHAWALVERAWAMA_S26-308DE,"<div class=""chunk-title"">Sec. 26-308. - Definitions.</div>",bafkreif2ey4vnm355dw3pduwnux3ex6iztatqp3ubn6oxv7iuaevn33mbm,CFR,40 C.F.R. 260,"us wastes and/or low-level
+               radioactive wastes.
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">On site</span> means the same as defined in 40 CFR 260.
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">Person</span> means any individual, corporation, partnership, firm, association, trust, estate,
+        ",SELECT * FROM cfr WHERE title = '40' AND part = '260',40,260,260,,,,,
+PTIICOOR_CH26EN_ARTXHAWALVERAWAMA_S26-318WACLFU,"<div class=""chunk-title"">Sec. 26-318. - Waste clean-up fund.</div>",bafkreig4pbtnw5smfgnyxm37gtakumwoycgqa7u4lrki647yprfq25knn4,Public Law,Public Law 96-510,Public Law 96-510 [Context not found],SELECT * FROM public_laws WHERE congress = '96' AND law_number = '510',,,,,96,510,,
+PTIICOOR_CH34FL_ARTIINGE_S34-4DE,"<div class=""chunk-title"">Sec. 34-4. - Definitions.</div>",bafkreibgymaousvb47cl7n47wsstfo7yjnthhgez3hdzfq6ifb3jtinq44,Public Law,Public Law 97-348,Public Law 97-348 [Context not found],SELECT * FROM public_laws WHERE congress = '97' AND law_number = '348',,,,,97,348,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE,"<div class=""chunk-title"">Sec. 70-152. - Definitions.</div>",bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74,USC,33 U.S.C. 1317(b),33 U.S.C. 1317(b) [Context not found],SELECT * FROM usc WHERE title = '33' AND section = '1317',33,,1317(b),1317,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE,"<div class=""chunk-title"">Sec. 70-152. - Definitions.</div>",bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74,USC,33 U.S.C. 1342,"lass=""ital"">Industrial user</span> means a source of indirect discharge which does not constitute a discharge of pollutants
+               under regulations issued pursuant to Section 402 of the Act (33 USC 1342).
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">Interference</span> means the inhibition or disruption of the POTW treatment processes or operations
+  ",SELECT * FROM usc WHERE title = '33' AND section = '1342',33,,1342,1342,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE,"<div class=""chunk-title"">Sec. 70-152. - Definitions.</div>",bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74,USC,33 U.S.C. 1345,"irement of the county's NPDES permit.
+               The term ""interference"" includes prevention of sewage sludge use or disposal by the
+               POTW in accordance with Section 405 of the Act (33 USC 1345) or any criteria, guidelines,
+               or regulations developed pursuant to the Solid Waste Disposal Act (SWDA), the Clean
+               Air Act, the Toxic Substances Control Act, or more stri",SELECT * FROM usc WHERE title = '33' AND section = '1345',33,,1345,1345,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE,"<div class=""chunk-title"">Sec. 70-152. - Definitions.</div>",bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74,USC,33 U.S.C. 1317(b),33 U.S.C. 1317(b) [Context not found],SELECT * FROM usc WHERE title = '33' AND section = '1317',33,,1317(b),1317,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE,"<div class=""chunk-title"">Sec. 70-152. - Definitions.</div>",bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74,USC,33 U.S.C. 1342,"lass=""ital"">Industrial user</span> means a source of indirect discharge which does not constitute a discharge of pollutants
+               under regulations issued pursuant to Section 402 of the Act (33 USC 1342).
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">Interference</span> means the inhibition or disruption of the POTW treatment processes or operations
+  ",SELECT * FROM usc WHERE title = '33' AND section = '1342',33,,1342,1342,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE,"<div class=""chunk-title"">Sec. 70-152. - Definitions.</div>",bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74,USC,33 U.S.C. 1317(c),33 U.S.C. 1317(c) [Context not found],SELECT * FROM usc WHERE title = '33' AND section = '1317',33,,1317(c),1317,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE,"<div class=""chunk-title"">Sec. 70-152. - Definitions.</div>",bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74,USC,33 U.S.C. 1292,"              
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">Publicly owned treatment works (POTW)</span> means a treatment works as defined by Section 212 of the Act (33 USC 1292) which
+               is owned in this instance by the Town of Valdese or the county. This definition includes
+               any sewers that convey wastewater to the POTW treatment plant, but does n",SELECT * FROM usc WHERE title = '33' AND section = '1292',33,,1292,1292,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE,"<div class=""chunk-title"">Sec. 70-152. - Definitions.</div>",bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74,CFR,40 C.F.R. 403.5,"categorical pretreatment standard</span> or <span class=""ital"">prohibitive discharge standard</span> means any regulation developed under the authority of Section 307(b) of the Act and
+               40 CFR 403.5.
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">National Pollution Discharge Elimination System or NPDES permit</span> means a permit issued pursuant to",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.5,,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-152DE,"<div class=""chunk-title"">Sec. 70-152. - Definitions.</div>",bafkreifn56rumvgcjzm5s73zzvn3tat7xmrarrj2dyyk3szfjzzvdhsv74,CFR,40 C.F.R. 403.6,"utants into a POTW. The reduction or alteration
+               can be obtained by physical, chemical or biological processes, or process changes
+               by other means, except as prohibited by 40 CFR 403.6(d).
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">Pretreatment requirements</span> means any substantive or procedural requirement related to pretreatm",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-155FECAPRST,"<div class=""chunk-title"">Sec. 70-155. - Federal categorical pretreatment standards.</div>",bafkreidhw3ezx4ulfb6ckwpdtanmx35xri7fp763holcz3mu427m7n4b5q,CFR,40 C.F.R. 403.12,"gory, shall immediately supersede the
+               limitations imposed under this article. The director shall notify all affected users
+               of the applicable reporting requirements under 40 CFR 403.12.
+               
+            </p>
+            <p class=""historynote0"">
+               (Code 1993, Â§ 70-155)
+               
+            </p></div>",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.12,,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-156MOFECAPRST,"<div class=""chunk-title"">Sec. 70-156. - Modification of federal categorical pretreatment standards.</div>",bafkreiad3drdt2luijhqu2zzyyqhoswpqxe6cjnkto5cxowhe54gvssck4,CFR,40 C.F.R. 403.7,"m in 95 percent of
+               the samples taken when measured according to the procedures set forth in Section 403.7(c)(2)
+               of Title 40 of the Code of Federal Regulations, part 403 (40 CFR 403.7(c)(2))â€”General
+               Pretreatment Regulations for Existing and New Sources of Pollution promulgated pursuant
+               to the Act. The county may then modify pollutant discharge limit",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.7,,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-156MOFECAPRST,"<div class=""chunk-title"">Sec. 70-156. - Modification of federal categorical pretreatment standards.</div>",bafkreiad3drdt2luijhqu2zzyyqhoswpqxe6cjnkto5cxowhe54gvssck4,CFR,40 C.F.R. 403.7,"m in 95 percent of
+               the samples taken when measured according to the procedures set forth in Section 403.7(c)(2)
+               of Title 40 of the Code of Federal Regulations, part 403 (40 CFR 403.7(c)(2))â€”General
+               Pretreatment Regulations for Existing and New Sources of Pollution promulgated pursuant
+               to the Act. The county may then modify pollutant discharge limit",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.7,,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-170PECORE,"<div class=""chunk-title"">Sec. 70-170. - Periodic compliance reports.</div>",bafkreid5e4r6zinhgprbw62hsugtbzb42fjhuwzyc74lxgqcpbvcpmmdnu,CFR,40 C.F.R. 136,"treatment standard. All analysis shall be
+               performed in accordance with procedures established by the administrator pursuant
+               to Section 304(g) of the Act and contained in 40 CFR 136 and amendments thereto or
+               with any other test procedures approved by the administrator. Sampling shall be performed
+               in accordance with the techniques approved by the adm",SELECT * FROM cfr WHERE title = '40' AND part = '136',40,136,136,,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV1GE_S70-170PECORE,"<div class=""chunk-title"">Sec. 70-170. - Periodic compliance reports.</div>",bafkreid5e4r6zinhgprbw62hsugtbzb42fjhuwzyc74lxgqcpbvcpmmdnu,CFR,40 C.F.R. 136,"treatment standard. All analysis shall be
+               performed in accordance with procedures established by the administrator pursuant
+               to Section 304(g) of the Act and contained in 40 CFR 136 and amendments thereto or
+               with any other test procedures approved by the administrator. Sampling shall be performed
+               in accordance with the techniques approved by the adm",SELECT * FROM cfr WHERE title = '40' AND part = '136',40,136,136,,,,,
+PTIICOOR_CH70UT_ARTIIIWAPRRE_DIV2WACOPE_S70-182AP,"<div class=""chunk-title"">Sec. 70-182. - Application.</div>",bafkreifxl6rxmnxpuplanv453cakabdjujwrix2jfr2johkoxarulxba2i,CFR,40 C.F.R. 136,"e analytical laboratory; sampling analysis shall be performed
+               in accordance with procedures established by the EPA pursuant to Section 304(g) of
+               the Act and contained in 40 CFR 136, as amended.
+               
+            </p>
+            		
+            <p class=""incr1"">
+               (4)
+               
+            </p>
+            		
+            <p class=""content2"">
+        ",SELECT * FROM cfr WHERE title = '40' AND part = '136',40,136,136,,,,,
+PTIICOOR_CH58SOWAMA_ARTIICOSTDI_S58-36STDI,"<div class=""chunk-title"">Sec. 58-36. - Storage and disposal.</div>",bafkreigepkzokhnbh6whkvy6rfl4jawo72lr4i2xjepd2akffvevmovyu4,CFR,40 C.F.R. 243.200," recommends a maximum
+               capacity of 35 gallons unless the containers are equipped with casters and can be
+               served by being rolled to the collection vehicle, as specified in 40 CFR 243.200-2(a)(1).
+               Solid waste receptacles may also be used for storage provided they meet the requirements
+               of this subsection. The number of containers shall be adequate to store",SELECT * FROM cfr WHERE title = '40' AND part = '243',40,243,243.200,,,,,
+PTIICOOR_CH58SOWAMA_ARTIINGE_S58-2DE,"<div class=""chunk-title"">Sec. 58-2. - Definitions.</div>",bafkreiexkfkwwxnlq4gjihvtcoporz3n3vkh2nwrgnqrb53awz7y5icfge,USC,42 U.S.C. 2011,"p>
+               		
+               <p class=""content2"">
+                  Any source, special nuclear or byproduct material as defined by the Atomic Energy
+                  Act of 1954, as amended (42 USC 2011);
+                  
+               </p>
+               		
+               
+               <p class=""incr1"">
+                  (5)
+                  
+               </p>
+               		
+            ",SELECT * FROM usc WHERE title = '42' AND section = '2011',42,,2011,2011,,,,
+PTIICOOR_CH58SOWAMA_ARTIINGE_S58-2DE,"<div class=""chunk-title"">Sec. 58-2. - Definitions.</div>",bafkreiexkfkwwxnlq4gjihvtcoporz3n3vkh2nwrgnqrb53awz7y5icfge,CFR,40 C.F.R. 261.4," research pertaining thereto, or in the production or
+               testing of biologicals, but does not include any hazardous waste, radioactive waste,
+               household waste, as defined in 40 CFR 261.4(b)(1), or those substances excluded from
+               the definition of solid waste in this chapter.
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">Mu",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.4,,,,,
+PTIICOOR_CH58SOWAMA_ARTIINGE_S58-2DE,"<div class=""chunk-title"">Sec. 58-2. - Definitions.</div>",bafkreiexkfkwwxnlq4gjihvtcoporz3n3vkh2nwrgnqrb53awz7y5icfge,Public Law,Public Law 92-500,Public Law 92-500 [Context not found],SELECT * FROM public_laws WHERE congress = '92' AND law_number = '500',,,,,92,500,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR,"<div class=""chunk-title"">Sec. 78-61. - General provisions.</div>",bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq,USC,33 U.S.C. 1347,"eatment standards.</span> Any regulation containing pollutant discharge limits promulgated by the Environmental
+               Protection Agency in accordance with Sections 307(b) and (c) of the Act (33 U.S.C.
+               1347) which applies to a specific category of industrial users and which appears in
+               40 CFR<a href="""" data-chunk-id=""PTIICOOR_CH1GEPR"" class=""section-link"" data-product-id=""12658""> Chapter 1",SELECT * FROM usc WHERE title = '33' AND section = '1347',33,,1347,1347,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR,"<div class=""chunk-title"">Sec. 78-61. - General provisions.</div>",bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq,USC,33 U.S.C. 1317,"3"">
+               <span class=""ital"">Indirect discharge.</span> The discharge or the introduction from any non-domestic source regulated under section
+               307(b), (c), or (d) of the Act, (33 U.S.C. 1317), into the POTW (including holding
+               tank waste discharged into the system).
+               
+            </p>
+            		
+            <p class=""incr2"">
+               (22)
+           ",SELECT * FROM usc WHERE title = '33' AND section = '1317',33,,1317,1317,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR,"<div class=""chunk-title"">Sec. 78-61. - General provisions.</div>",bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq,USC,33 U.S.C. 1345,"tate and federal statutes, regulations, or permits. The
+               term includes prevention of sewage sludge use or disposal by the POTW in accordance
+               with section 405 of the Act, (33 U.S.C. 1345) or any criteria, guidelines, or regulations
+               developed pursuant to the Solid Waste Disposal Act (SWDA)(42 U.S.C. 6901, et seq.),
+               the Clean Air Act, the Toxic Substances ",SELECT * FROM usc WHERE title = '33' AND section = '1345',33,,1345,1345,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR,"<div class=""chunk-title"">Sec. 78-61. - General provisions.</div>",bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq,USC,42 U.S.C. 6901,"he POTW in accordance
+               with section 405 of the Act, (33 U.S.C. 1345) or any criteria, guidelines, or regulations
+               developed pursuant to the Solid Waste Disposal Act (SWDA)(42 U.S.C. 6901, et seq.),
+               the Clean Air Act, the Toxic Substances Control Act, the Marine Protection Research
+               and Sanctuary Act (MPRSA) or more stringent than state criteria (including",SELECT * FROM usc WHERE title = '42' AND section = '6901',42,,6901,6901,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR,"<div class=""chunk-title"">Sec. 78-61. - General provisions.</div>",bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq,USC,33 U.S.C. 1342,"  <p class=""content3"">
+               <span class=""ital"">NPDES</span> or <span class=""ital"">National Pollutant Discharge Elimination System.</span> A permit issued pursuant to Section 402 of the Act (33 U.S.C. 1342) or pursuant to
+               G.S. 143-215.1 by the state under delegation from EPA.
+               
+            </p>
+            		
+            <p class=""incr2"">
+               (37)
+               ",SELECT * FROM usc WHERE title = '33' AND section = '1342',33,,1342,1342,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR,"<div class=""chunk-title"">Sec. 78-61. - General provisions.</div>",bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq,USC,33 U.S.C. 1292,"p class=""content3"">
+               <span class=""ital"">Publicly owned treatment works (POTW).</span> A treatment works (or a combination thereof), as defined by Section 212 of the Act,
+               (33 U.S.C. 1292) which is owned in this instance by WSACC. This definition includes
+               any devices or systems used in the collection, storage, treatment, recycling, and
+               reclamation of muni",SELECT * FROM usc WHERE title = '33' AND section = '1292',33,,1292,1292,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-61GEPR,"<div class=""chunk-title"">Sec. 78-61. - General provisions.</div>",bafkreigzfje4wb2a22gxiyp6bvpbn3done54bzbjacshppo6g27ltayxrq,CFR,40 C.F.R. 403.11,"om non-domestic
+               sources which was developed by WSACC in compliance with 40 CFR, 403.8 and approved
+               by the state as authorized by G.S. 143-215.3(a)(14) in accordance with 40 CFR 403.11.
+               
+            </p>
+            		
+            <p class=""incr2"">
+               (45)
+               
+            </p>
+            		
+            <p class=""content3"">
+               <spa",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.11,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE,"<div class=""chunk-title"">Sec. 78-62. - General sewer use requirements.</div>",bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e,CFR,40 C.F.R. 261.21,"W, including, but not limited to, waste
+               streams with a closed cup flashpoint of less than 140 degrees Fahrenheit (60 degrees
+               Celsius) using the test methods specified in 40 CFR 261.21.
+               
+            </p>
+            		
+            <p class=""incr2"">
+               (2)
+               
+            </p>
+            		
+            <p class=""content3"">
+               <span",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.21,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE,"<div class=""chunk-title"">Sec. 78-62. - General sewer use requirements.</div>",bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e,CFR,40 C.F.R. 403.6," terms of either the
+               mass or the concentration of a pollutant in wastewater, the executive director may
+               impose equivalent concentration or mass limits in accordance with 40 CFR 403.6(c).
+               
+            </p>
+            		
+            <p class=""incr1"">
+               (b)
+               
+            </p>
+            		
+            <p class=""content2"">
+               Wh",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE,"<div class=""chunk-title"">Sec. 78-62. - General sewer use requirements.</div>",bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e,CFR,40 C.F.R. 403.6," terms of either the
+               mass or the concentration of a pollutant in wastewater, the executive director may
+               impose equivalent concentration or mass limits in accordance with 40 CFR 403.6(c).
+               
+            </p>
+            		
+            <p class=""incr1"">
+               (b)
+               
+            </p>
+            		
+            <p class=""content2"">
+               Wh",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE,"<div class=""chunk-title"">Sec. 78-62. - General sewer use requirements.</div>",bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e,CFR,40 C.F.R. 403.13,"p class=""content2"">
+               A user may obtain a variance from a categorical pretreatment standard if the user
+               can prove, pursuant to the procedural and substantive provisions in 40 CFR 403.13,
+               that factors relating to its discharge are fundamentally different from the factors
+               considered by EPA when developing the categorical pretreatment standard.
+           ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.13,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE,"<div class=""chunk-title"">Sec. 78-62. - General sewer use requirements.</div>",bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e,CFR,40 C.F.R. 403.15,"d)
+               
+            </p>
+            		
+            <p class=""content2"">
+               A user may obtain a net gross adjustment to a categorical standard in accordance with
+               40 CFR 403.15.
+               
+            </p>
+            		
+            <p class=""incr1"">
+               (c)
+               
+            </p>
+            		
+            <p class=""content2"">
+               A use",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.15,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE,"<div class=""chunk-title"">Sec. 78-62. - General sewer use requirements.</div>",bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e,CFR,40 C.F.R. 403.7,"            
+            </p>
+            		
+            <p class=""content2"">
+               A user may request a removal credit adjustment to a categorical standard in accordance
+               with 40 CFR 403.7.
+               
+            </p>
+            		
+            <p class=""incr0"">
+               3.
+               
+            </p>
+            		
+            <p class=""content1"">
+               <span ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.7,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-62GESEUSRE,"<div class=""chunk-title"">Sec. 78-62. - General sewer use requirements.</div>",bafkreifzqlzs35dh77grtvlfcd4uwwetnp2mmdiftwgbpoczzegxnpvp3e,CFR,40 C.F.R. 403.4," to comply with the objectives presented in section 78-61.1 of this article or the
+               general and specific prohibitions in section 78-62.1 of this article, as is allowed
+               by 40 CFR 403.4.
+               
+            </p>
+            		
+            <p class=""incr0"">
+               6.
+               
+            </p>
+            		
+            <p class=""content1"">
+               <span ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.4,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-64WADIPEAPIS,"<div class=""chunk-title"">Sec. 78-64. - Wastewater discharge permit application and issuance.</div>",bafkreietc35lydqrpg7so2drvmtpwnd3use7d26btew6zp5iu7tem2u4ti,CFR,40 C.F.R. 403.3,"contracts which can be terminated or modified without substantial obligation
+                  under this definition in accordance with that section with the provisions as stated
+                  in 40 CFR 403.3.(K).
+                  
+               </p>
+               		
+               
+            
+            <p class=""incr2"">
+               (2)
+               
+            </p>
+            		
+           ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.3,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-64WADIPEAPIS,"<div class=""chunk-title"">Sec. 78-64. - Wastewater discharge permit application and issuance.</div>",bafkreietc35lydqrpg7so2drvmtpwnd3use7d26btew6zp5iu7tem2u4ti,CFR,40 C.F.R. 403.12,")
+               
+            </p>
+            		
+            <p class=""content3"">
+               If subject to a categorical standard, a base line monitoring report in accordance
+               with 40 CFR 403.12(b) and 15A NCAC 2H.0908(a), as outlined in section 78-65.1 of this
+               article;
+               
+            </p>
+            		
+            <p class=""incr2"">
+               (17)
+          ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.12,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-64WADIPEAPIS,"<div class=""chunk-title"">Sec. 78-64. - Wastewater discharge permit application and issuance.</div>",bafkreietc35lydqrpg7so2drvmtpwnd3use7d26btew6zp5iu7tem2u4ti,CFR,40 C.F.R. 403.13,"(xi)
+               
+            </p>
+            		
+            <p class=""content4"">
+               Revision or a grant of variance from categorical pretreatment standards pursuant to
+               40 CFR 403.13;
+               
+            </p>
+            		
+            <p class=""incr3"">
+               (xii)
+               
+            </p>
+            		
+            <p class=""content4"">
+               To ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.13,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 403.6,"content2"">
+               Within either 180 days after the effective date of a categorical pretreatment standard,
+               or the final administrative decision on a category determination under 40 CFR 403.6(a)(4),
+               whichever is later, existing industrial users who are subject to the standard and
+               are currently discharging to or scheduled to discharge to the POTW shall submit ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 403.6,"content2"">
+               Within either 180 days after the effective date of a categorical pretreatment standard,
+               or the final administrative decision on a category determination under 40 CFR 403.6(a)(4),
+               whichever is later, existing industrial users who are subject to the standard and
+               are currently discharging to or scheduled to discharge to the POTW shall submit ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 403.12,"            </p>
+            		
+            <p class=""content4"">
+               Sampling must be performed in accordance with procedures set out in section 78-65.11
+               of this article and 40 CFR 403.12(b) and (g), including 40 CFR 403.12(g)(4).
+               
+            </p>
+            		
+            <p class=""incr2"">
+               (6)
+               
+            </p>
+            		
+           ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.12,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 403.12,"            </p>
+            		
+            <p class=""content4"">
+               Sampling must be performed in accordance with procedures set out in section 78-65.11
+               of this article and 40 CFR 403.12(b) and (g), including 40 CFR 403.12(g)(4).
+               
+            </p>
+            		
+            <p class=""incr2"">
+               (6)
+               
+            </p>
+            		
+           ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.12,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 403.6,"content2"">
+               Within either 180 days after the effective date of a categorical pretreatment standard,
+               or the final administrative decision on a category determination under 40 CFR 403.6(a)(4),
+               whichever is later, existing industrial users who are subject to the standard and
+               are currently discharging to or scheduled to discharge to the POTW shall submit ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 403.12,"            </p>
+            		
+            <p class=""content4"">
+               Sampling must be performed in accordance with procedures set out in section 78-65.11
+               of this article and 40 CFR 403.12(b) and (g), including 40 CFR 403.12(g)(4).
+               
+            </p>
+            		
+            <p class=""incr2"">
+               (6)
+               
+            </p>
+            		
+           ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.12,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 261.30,"aph (a) above, during a calendar month
+               in which they discharge no more than 15 kilograms of hazardous wastes, unless the
+               wastes are acute hazardous wastes as specific in 40 CFR 261.30(d) and 261.33(e). Discharge
+               of more than 15 kilograms of nonacute hazardous wastes in a calendar month, or of
+               any quantity of acute hazardous wastes as specified in 40 C",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.30,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 261.30,"aph (a) above, during a calendar month
+               in which they discharge no more than 15 kilograms of hazardous wastes, unless the
+               wastes are acute hazardous wastes as specific in 40 CFR 261.30(d) and 261.33(e). Discharge
+               of more than 15 kilograms of nonacute hazardous wastes in a calendar month, or of
+               any quantity of acute hazardous wastes as specified in 40 C",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.30,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 136,"permit application or report shall be performed by a laboratory
+               certified by the state to perform the wastewater analyses in accordance with the techniques
+               prescribed in 40 CFR Part 136, unless otherwise specified in an applicable categorical
+               pretreatment standard, or unless otherwise performed in accordance with procedures
+               approved by EPA or WSACC. If ",SELECT * FROM cfr WHERE title = '40' AND part = '136',40,136,136,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 403.12,"            </p>
+            		
+            <p class=""content4"">
+               Sampling must be performed in accordance with procedures set out in section 78-65.11
+               of this article and 40 CFR 403.12(b) and (g), including 40 CFR 403.12(g)(4).
+               
+            </p>
+            		
+            <p class=""incr2"">
+               (6)
+               
+            </p>
+            		
+           ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.12,,,,,
+PTIICOOR_CH78UT_ARTIIISEUS_S78-65RERE,"<div class=""chunk-title"">Sec. 78-65. - Reporting requirements.</div>",bafkreidtj2owacc5to3ew3oaafdm3vaxctgvainpgebj5kp4fcc6iauxyy,CFR,40 C.F.R. 136,"permit application or report shall be performed by a laboratory
+               certified by the state to perform the wastewater analyses in accordance with the techniques
+               prescribed in 40 CFR Part 136, unless otherwise specified in an applicable categorical
+               pretreatment standard, or unless otherwise performed in accordance with procedures
+               approved by EPA or WSACC. If ",SELECT * FROM cfr WHERE title = '40' AND part = '136',40,136,136,,,,,
+COOR_CH30PU_S30-11UNGUPRCOUSFEFU,"<div class=""chunk-title"">Sec. 30-11. - Uniform guidance procurement for contracts using federal funds.</div>",bafkreif5qonjuwiibzaey2ksvkwb7z4cusasnsononggnsdaxem6jten6m,CFR,2 C.F.R. 200," <span class=""ital"">Mirco-purchase threshold</span>. The dollar amount at or below which a non-federal entity may purchase property or
+                  services using micro-purchase procedures under 2 C.F.R. 200-320.
+                  </p>
+               <p class=""b2"">
+                  <span class=""ital"">No evasion.</span> No contract may be divided to bring the cost under bid thresholds or to evade any
+   ",SELECT * FROM cfr WHERE title = '2' AND part = '200',2,200,200,,,,,
+COOR_CH32SOWAMA_S32-6STACDIGASOWA,"<div class=""chunk-title"">Sec. 32-6. - Storage, accumulation and disposal of garbage and solid waste.</div>",bafkreib7deyumiqtz6rcgypnforihqyzxt2swg3be43c6lvxnryezbez5y,CFR,40 C.F.R. 264.314,"ludge which has no presence of any free liquids in a representative sample of
+               waste as determined by USEPA Method 9095B, paint filter liquids test and in compliance
+               with 40 CFR 264.314 and 265.314.
+               </p>
+            		
+            <p class=""incr1"">
+               (5)
+               </p>
+            		
+            <p class=""content2"">
+               Any solid waste tha",SELECT * FROM cfr WHERE title = '40' AND part = '264',40,264,264.314,,,,,
+COOR_CH32SOWAMA_S32-6STACDIGASOWA,"<div class=""chunk-title"">Sec. 32-6. - Storage, accumulation and disposal of garbage and solid waste.</div>",bafkreib7deyumiqtz6rcgypnforihqyzxt2swg3be43c6lvxnryezbez5y,CFR,40 C.F.R. 264.314,"ludge which has no presence of any free liquids in a representative sample of
+               waste as determined by USEPA Method 9095B, paint filter liquids test and in compliance
+               with 40 CFR 264.314 and 265.314.
+               </p>
+            		
+            <p class=""incr1"">
+               (5)
+               </p>
+            		
+            <p class=""content2"">
+               Any solid waste tha",SELECT * FROM cfr WHERE title = '40' AND part = '264',40,264,264.314,,,,,
+COOR_CH11WAMA_ARTIISOWA_DIV1GE_S11-28DE,"<div class=""chunk-title"">Sec. 11-28. - Definitions.</div>",bafkreihdrhdcdwqilnmdyt5nvmycejf2zo6xtrxmpwwghjv3hq7sdpgw24,Public Law,Public Law 92-500,"tal thereto and generated by the treatment
+                  thereof which are point sources subject to permits granted under section 402 of the
+                  federal Water Pollution Control Act (Public Law 92-500), as amended, and permits granted
+                  under G.S. Â§ 143-215.1 by the environmental management commission; except that any
+                  sludges that meet the criteria for hazardous ",SELECT * FROM public_laws WHERE congress = '92' AND law_number = '500',,,,,92,500,,
+COOR_CH11WAMA_ARTIISOWA_DIV1GE_S11-28DE,"<div class=""chunk-title"">Sec. 11-28. - Definitions.</div>",bafkreihdrhdcdwqilnmdyt5nvmycejf2zo6xtrxmpwwghjv3hq7sdpgw24,Public Law,Public Law 94-580,"e environmental management commission; except that any
+                  sludges that meet the criteria for hazardous waste under the Federal Resource Conservation
+                  and Recovery Act (Public Law 94-580), as amended, shall also be a solid waste for
+                  the purposes of this article;
+                  </p>
+               		
+               
+               <p class=""incr1"">
+               ",SELECT * FROM public_laws WHERE congress = '94' AND law_number = '580',,,,,94,580,,
+COOR_CH11WAMA_ARTIISOWA_DIV1GE_S11-28DE,"<div class=""chunk-title"">Sec. 11-28. - Definitions.</div>",bafkreihdrhdcdwqilnmdyt5nvmycejf2zo6xtrxmpwwghjv3hq7sdpgw24,Public Law,Public Law 94-580,"e environmental management commission; except that any
+                  sludges that meet the criteria for hazardous waste under the Federal Resource Conservation
+                  and Recovery Act (Public Law 94-580), as amended, shall also be a solid waste for
+                  the purposes of this article;
+                  </p>
+               		
+               
+               <p class=""incr1"">
+               ",SELECT * FROM public_laws WHERE congress = '94' AND law_number = '580',,,,,94,580,,
+COOR_CH11WAMA_ARTIISOWA_DIV1GE_S11-28DE,"<div class=""chunk-title"">Sec. 11-28. - Definitions.</div>",bafkreihdrhdcdwqilnmdyt5nvmycejf2zo6xtrxmpwwghjv3hq7sdpgw24,Public Law,Public Law 94-580,"e environmental management commission; except that any
+                  sludges that meet the criteria for hazardous waste under the Federal Resource Conservation
+                  and Recovery Act (Public Law 94-580), as amended, shall also be a solid waste for
+                  the purposes of this article;
+                  </p>
+               		
+               
+               <p class=""incr1"">
+               ",SELECT * FROM public_laws WHERE congress = '94' AND law_number = '580',,,,,94,580,,
+COOR_CH20SOWA_S20-3DE,"<div class=""chunk-title"">Sec. 20-3. - Definitions.</div>",bafkreih4c2b2nrulw3giygsfzhvja3gzpmu2elrp2tspstry5zqbcnxiei,USC,42 U.S.C. 2011,"p>
+               		
+               <p class=""content2"">
+                  Any source, special nuclear or byproduct material as defined by the Atomic Energy
+                  Act of 1954, as amended (42 U.S.C. 2011);
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (5)
+                  </p>
+               		
+               <p class=""content2"">
+        ",SELECT * FROM usc WHERE title = '42' AND section = '2011',42,,2011,2011,,,,
+COOR_CH20SOWA_S20-3DE,"<div class=""chunk-title"">Sec. 20-3. - Definitions.</div>",bafkreih4c2b2nrulw3giygsfzhvja3gzpmu2elrp2tspstry5zqbcnxiei,Public Law,Public Law 92-500,Public Law 92-500 [Context not found],SELECT * FROM public_laws WHERE congress = '92' AND law_number = '500',,,,,92,500,,
+COOR_CH23TE_ARTIICACO_DIV7BORERE_S23-151BOREAVGR,"<div class=""chunk-title"">Sec. 23-151. - Books and records available to the grantor.</div>",bafkreih66b4xum4uukk6t6jqlweie2epbragrrwte4u7u2gp3uomwso62i,CFR,47 C.F.R. 0.459,"llowing exception. Requests by the county for
+               access to records for rate regulation purposes considered by grantee to be confidential
+               shall be handled in accordance with 47 CFR 0.459 and other applicable FCC and other
+               relevant regulations.
+               </p>
+            <p class=""historynote0"">
+               (Ord. of 10-10-05, Â§ 25-161)
+               </p></div>",SELECT * FROM cfr WHERE title = '47' AND part = '0',47,0,0.459,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV1GE_S26-82DEAB,"<div class=""chunk-title"">Sec. 26-82. - Definitions and abbreviations.</div>",bafkreiekm43rrp7inna7idhcz2p5wcsmwwoao5riyyig557hr63xas34r4,USC,33 U.S.C. 1317,"span> or <span class=""ital"">discharge.</span> The discharge or the introduction of any substance(s) from any nondomestic source
+               regulated under Sections 307(b), (c) or (d) of the Act, (33 U.S.C. 1317), into the
+               POTW (including holding tank waste discharged into the system).
+               </p>
+            <p class=""b1"">
+               <span class=""ital"">Interference.</span> The inh",SELECT * FROM usc WHERE title = '33' AND section = '1317',33,,1317,1317,,,,
+COOR_CH26UT_ARTIVSEUS_DIV1GE_S26-82DEAB,"<div class=""chunk-title"">Sec. 26-82. - Definitions and abbreviations.</div>",bafkreiekm43rrp7inna7idhcz2p5wcsmwwoao5riyyig557hr63xas34r4,USC,33 U.S.C. 1345,"state and federal
+               statutes, regulations or permits. The term includes prevention of sewage sludge use
+               or disposal by the POTW in accordance with Section 405 of the Act, (33 U.S.C. 1345)
+               or any criteria, guidelines or regulations developed pursuant to the Solid Waste Disposal
+               Act (SWDA) (42 U.S.C. Â§ 6901 et seq.), the Clean Air Act, the Toxic Substance",SELECT * FROM usc WHERE title = '33' AND section = '1345',33,,1345,1345,,,,
+COOR_CH26UT_ARTIVSEUS_DIV1GE_S26-82DEAB,"<div class=""chunk-title"">Sec. 26-82. - Definitions and abbreviations.</div>",bafkreiekm43rrp7inna7idhcz2p5wcsmwwoao5riyyig557hr63xas34r4,CFR,40 C.F.R. 403.8,"ass=""ital"">Pretreatment program.</span> The program for the control of pollutants introduced into the POTW from nondomestic
+               sources which was developed by the county in compliance with 40 CFR 403.8 and approved
+               by the approval authority as authorized by G.S. 143-215.3(a)(14) in accordance with
+               40 CFR 403.11.
+               </p>
+            <p class=""b1"">
+          ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.8,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV1GE_S26-82DEAB,"<div class=""chunk-title"">Sec. 26-82. - Definitions and abbreviations.</div>",bafkreiekm43rrp7inna7idhcz2p5wcsmwwoao5riyyig557hr63xas34r4,CFR,40 C.F.R. 403.11,"ources which was developed by the county in compliance with 40 CFR 403.8 and approved
+               by the approval authority as authorized by G.S. 143-215.3(a)(14) in accordance with
+               40 CFR 403.11.
+               </p>
+            <p class=""b1"">
+               <span class=""ital"">Pretreatment requirements.</span> Any substantive or procedural requirement related to pretreatment, other than a pre",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.11,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV2SEUSRE_S26-100RIRE,"<div class=""chunk-title"">Sec. 26-100. - Right of revision.</div>",bafkreidgqdio4jlj2ub2abi6sxsuibpcd7kmwf2ytdpkedlkbog6c3bld4,CFR,40 C.F.R. 403.4,"_S26-81PUPO"" class=""section-link"" data-product-id=""12650"">section 26-81</a> of this article, or the general and specific prohibitions in section 26-96 of this
+               article, as is allowed by 40 CFR 403.4.
+               </p>
+            <p class=""historynote0"">
+               (Ord. of 9-26-94, Â§ 2.5)
+               </p></div>",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.4,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV2SEUSRE_S26-96PRDIST,"<div class=""chunk-title"">Sec. 26-96. - Prohibited discharge standards.</div>",bafkreiehh3a6xp7hz6ikccowkvtkk3i2houl5gu75dn2dfcadf2hob6ksy,CFR,40 C.F.R. 261.21,"TW, including, but not
+               limited to, wastestreams with a closed cup flashpoint of less than 140 degrees Fahrenheit
+               (60 degrees Celsius) using the test methods specified in 40 CFR 261.21.
+               </p>
+            		
+            <p class=""incr1"">
+               (2)
+               </p>
+            		
+            <p class=""content2"">
+               Solid or viscous substances in ",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.21,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV2SEUSRE_S26-97NACAPRST,"<div class=""chunk-title"">Sec. 26-97. - National Categorical Pretreatment Standards.</div>",bafkreibjtcjqcdfnrgqdmelqbkzmvnmfldb57emsaxierncy5zxg4g5vri,CFR,40 C.F.R. 403.6,"terms of either the
+                  mass or the concentration of a pollutant in wastewater, the POTW director may impose
+                  equivalent concentration or mass limits in accordance with 40 CFR 403.6(c).
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (2)
+                  </p>
+               		
+               <p class=""content2"">
+      ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV2SEUSRE_S26-97NACAPRST,"<div class=""chunk-title"">Sec. 26-97. - National Categorical Pretreatment Standards.</div>",bafkreibjtcjqcdfnrgqdmelqbkzmvnmfldb57emsaxierncy5zxg4g5vri,CFR,40 C.F.R. 403.5,"t standard is mixed with wastewater
+                  not regulated by the same standard, the POTW director shall impose an alternate limit
+                  using the combined wastestream formula in 40 CFR 403.5(e).
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (3)
+                  </p>
+               		
+               <p class=""content2"">
+      ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.5,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV2SEUSRE_S26-97NACAPRST,"<div class=""chunk-title"">Sec. 26-97. - National Categorical Pretreatment Standards.</div>",bafkreibjtcjqcdfnrgqdmelqbkzmvnmfldb57emsaxierncy5zxg4g5vri,CFR,40 C.F.R. 403.13,"s=""content2"">
+                  A user may obtain a variance from a categorical pretreatment standard if the user
+                  can prove, pursuant to the procedural and substantive provisions in 40 CFR 403.13,
+                  that factors relating to its discharge are fundamentally different from the factors
+                  considered by EPA when developing the categorical pretreatment standard.
+     ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.13,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV2SEUSRE_S26-97NACAPRST,"<div class=""chunk-title"">Sec. 26-97. - National Categorical Pretreatment Standards.</div>",bafkreibjtcjqcdfnrgqdmelqbkzmvnmfldb57emsaxierncy5zxg4g5vri,CFR,40 C.F.R. 403.15,"
+                  </p>
+               		
+               <p class=""content2"">
+                  A user may obtain a net gross adjustment to a categorical standard in accordance with
+                  40 CFR 403.15.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (5)
+                  </p>
+               		
+               <p class=""content2"">
+         ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.15,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV2SEUSRE_S26-97NACAPRST,"<div class=""chunk-title"">Sec. 26-97. - National Categorical Pretreatment Standards.</div>",bafkreibjtcjqcdfnrgqdmelqbkzmvnmfldb57emsaxierncy5zxg4g5vri,CFR,40 C.F.R. 403.7,"             </p>
+               		
+               <p class=""content2"">
+                  A user may request a removal credit adjustment to a categorical standard in accordance
+                  with 40 CFR 403.7.
+                  </p>
+               		
+               
+            <p class=""historynote0"">
+               (Ord. of 9-26-94, Â§ 2.2; Ord. of 11-26-12, Â§ 8)
+               </p></div>",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.7,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV4WADIPEAPIS_S26-132WAPE,"<div class=""chunk-title"">Sec. 26-132. - Wastewater permits.</div>",bafkreibh7gtbop43cuhhedzdp2efxomkw5r2u3w5ghuzo5xcwr3aprp2dq,CFR,40 C.F.R. 403.12,"
+                  </p>
+               		
+               <p class=""content3"">
+                  If subject to a categorical standard, a baseline monitoring report in accordance with
+                  40 CFR 403.12(b) and 15A NCAC 2H.0908(a), as outlined in section 26-146 of this article.
+                  </p>
+               		
+               <p class=""incr2"">
+                  n.
+                  </p>
+      ",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.12,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV5RERE_S26-146BAMORE,"<div class=""chunk-title"">Sec. 26-146. - Baseline monitoring reports.</div>",bafkreigvkifkvzg2ejkevl4x6d6eapa3qcjex6474lrdjkyzatpw2stgti,CFR,40 C.F.R. 403.6,"content1"">
+               Within either 180 days after the effective date of a categorical pretreatment standard,
+               or the final administrative decision on a category determination under 40 CFR 403.6(a)(4),
+               whichever is later, existing categorical users currently discharging to or scheduled
+               to discharge to the POTW shall submit to the POTW director a report which con",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV5RERE_S26-146BAMORE,"<div class=""chunk-title"">Sec. 26-146. - Baseline monitoring reports.</div>",bafkreigvkifkvzg2ejkevl4x6d6eapa3qcjex6474lrdjkyzatpw2stgti,CFR,40 C.F.R. 403.6,"content1"">
+               Within either 180 days after the effective date of a categorical pretreatment standard,
+               or the final administrative decision on a category determination under 40 CFR 403.6(a)(4),
+               whichever is later, existing categorical users currently discharging to or scheduled
+               to discharge to the POTW shall submit to the POTW director a report which con",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV5RERE_S26-146BAMORE,"<div class=""chunk-title"">Sec. 26-146. - Baseline monitoring reports.</div>",bafkreigvkifkvzg2ejkevl4x6d6eapa3qcjex6474lrdjkyzatpw2stgti,CFR,40 C.F.R. 403.12,"              </p>
+            		
+            <p class=""content3"">
+               Sampling must be performed in accordance with procedures set out in section 26-156
+               of this article and 40 CFR 403.12(b) and (g).
+               </p>
+            		
+            <p class=""incr1"">
+               (6)
+               </p>
+            		
+            <p class=""content2"">
+               <span class=""ital"">C",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.12,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV5RERE_S26-148RECOCAPRSTDE,"<div class=""chunk-title"">Sec. 26-148. - Reports on compliance with categorical pretreatment standard deadline.</div>",bafkreiglxh3ytb66yw2qwydjkanddw3jl2vzw3atkpvnh2k5n765ywjs2e,CFR,40 C.F.R. 403.6,"tion-link"" data-product-id=""12650"">26-146</a>(b)(4)â€”(6) of this article. For users subject to equivalent mass or concentration
+               limits established in accordance with the procedures in 40 CFR 403.6(c), this report
+               shall contain a reasonable measure of the user's long-term production rate. For all
+               other users subject to categorical pretreatment standards expressed i",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV5RERE_S26-154NODIHAWA,"<div class=""chunk-title"">Sec. 26-154. - Notification of the discharge of hazardous waste.</div>",bafkreidtxeld3ufd5l5lb5uf23e6urddoq7yynsuzve7ijruznpw7hpxky,CFR,40 C.F.R. 261.30,"ion (a) above, during a calendar
+               month in which they discharge no more than 15 kilograms of hazardous wastes, unless
+               the wastes are acute hazardous wastes as specific in 40 CFR 261.30(d) and 261.33(e).
+               Discharge of more than 15 kilograms of nonacute hazardous wastes in a calendar month,
+               or of any quantity of acute hazardous wastes as specified in 40 C",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.30,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV5RERE_S26-154NODIHAWA,"<div class=""chunk-title"">Sec. 26-154. - Notification of the discharge of hazardous waste.</div>",bafkreidtxeld3ufd5l5lb5uf23e6urddoq7yynsuzve7ijruznpw7hpxky,CFR,40 C.F.R. 261.30,"ion (a) above, during a calendar
+               month in which they discharge no more than 15 kilograms of hazardous wastes, unless
+               the wastes are acute hazardous wastes as specific in 40 CFR 261.30(d) and 261.33(e).
+               Discharge of more than 15 kilograms of nonacute hazardous wastes in a calendar month,
+               or of any quantity of acute hazardous wastes as specified in 40 C",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.30,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV5RERE_S26-156GRCOSACO,"<div class=""chunk-title"">Sec. 26-156. - Grab and composite sample collection.</div>",bafkreih3rzncpa24trv42lilt72ujzab3hmvoilpsiir2zdyugp7cmkiae,CFR,40 C.F.R. 136," class=""content1"">
+               Grab samples must be used for pH, cyanide, total phenols, oil and grease, sulfide,
+               volatile organic compounds, and any other pollutants as required by 40 CFR 136. The
+               POTW shall determine the number of grabs necessary to be representative of the user's
+               discharge. See 40 CFR 403.12(g)(5) for additional grab sample number requireme",SELECT * FROM cfr WHERE title = '40' AND part = '136',40,136,136,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV5RERE_S26-156GRCOSACO,"<div class=""chunk-title"">Sec. 26-156. - Grab and composite sample collection.</div>",bafkreih3rzncpa24trv42lilt72ujzab3hmvoilpsiir2zdyugp7cmkiae,CFR,40 C.F.R. 403.12,"c compounds, and any other pollutants as required by 40 CFR 136. The
+               POTW shall determine the number of grabs necessary to be representative of the user's
+               discharge. See 40 CFR 403.12(g)(5) for additional grab sample number requirements
+               for BMR and 90-day compliance reports. Additionally, the POTW director may allow collection
+               of multiple grabs during",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.12,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV5RERE_S26-156GRCOSACO,"<div class=""chunk-title"">Sec. 26-156. - Grab and composite sample collection.</div>",bafkreih3rzncpa24trv42lilt72ujzab3hmvoilpsiir2zdyugp7cmkiae,CFR,40 C.F.R. 136," class=""content1"">
+               Grab samples must be used for pH, cyanide, total phenols, oil and grease, sulfide,
+               volatile organic compounds, and any other pollutants as required by 40 CFR 136. The
+               POTW shall determine the number of grabs necessary to be representative of the user's
+               discharge. See 40 CFR 403.12(g)(5) for additional grab sample number requireme",SELECT * FROM cfr WHERE title = '40' AND part = '136',40,136,136,,,,,
+COOR_CH26UT_ARTIVSEUS_DIV7COIN_S26-186APCOTRST,"<div class=""chunk-title"">Sec. 26-186. - Applying for confidential treatment status.</div>",bafkreie6gwabc2vkgi37sytuurfjbfroruoxxb67vbhjsnwe4r5x3qrjlu,CFR,40 C.F.R. 2.302,"e.
+               </p>
+            		
+            <p class=""incr0"">
+               (d)
+               </p>
+            		
+            <p class=""content1"">
+               ""Effluent data"" as defined at 40 CFR 2.302 will be recognized as confidential only
+               to the degree it is so treated by that rule.
+               </p>
+            		
+            <p class=""historynote0"">
+               (Ord. of 9-2",SELECT * FROM cfr WHERE title = '40' AND part = '2',40,2,2.302,,,,,
+CH19SOWAREMAMA_ARTIINGE_S19-1DE,"<div class=""chunk-title"">Sec. 19-1. - Definitions.</div>",bafkreiexa3i5nycjz34p77wyreg2uvfk4sfoddukuo5anifwld7lpuftgq,Public Law,Public Law 92-500,Public Law 92-500 [Context not found],SELECT * FROM public_laws WHERE congress = '92' AND law_number = '500',,,,,92,500,,
+COOR_CH34FLDAPR_ARTIVPRFLHARE_S34-81GEST,"<div class=""chunk-title"">Sec. 34-81. - General standards.</div>",bafkreiep7dbwxiswzg6gceqkghzxjuofav4bgmwz77uazvg6uu5rbqfwpa,USC,33 U.S.C. 1334," governmental agencies for which approval is required
+                  by federal or state law, including Section 404 of the Federal Water Pollution Control
+                  Act Amendments of 1972, 33 U.S.C. 1334.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (15)
+                  </p>
+               		
+               <p class=""content2"">
+        ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+COOR_CH54SOWA_ARTIVSALAFR_S54-86DE,"<div class=""chunk-title"">Sec. 54-86. - Definitions.</div>",bafkreibsvei747bbovoeevjul6obfuswy57k5ip2koepg5hu43llhzadfa,USC,42 U.S.C. 9601,"ass=""p0"">
+               <span class=""ital"">CERCLA/SARA</span> means the Comprehensive Environmental Response, Compensation, and Liability Act of
+               1980, Pub. L. No. 96-510.04 Stat. 2767.42 U.S.C. 9601 et seq., as amended, and the
+               Superfund Amendments and Reauthorization Act of 1986, Pub. L. No. 99-499.100 Stat.
+               1613, as amended.
+               </p>
+            <p clas",SELECT * FROM usc WHERE title = '42' AND section = '9601',42,,9601,9601,,,,
+COOR_CH54SOWA_ARTIVSALAFR_S54-86DE,"<div class=""chunk-title"">Sec. 54-86. - Definitions.</div>",bafkreibsvei747bbovoeevjul6obfuswy57k5ip2koepg5hu43llhzadfa,Stat,04 Stat. 2767,"         <p class=""p0"">
+               <span class=""ital"">CERCLA/SARA</span> means the Comprehensive Environmental Response, Compensation, and Liability Act of
+               1980, Pub. L. No. 96-510.04 Stat. 2767.42 U.S.C. 9601 et seq., as amended, and the
+               Superfund Amendments and Reauthorization Act of 1986, Pub. L. No. 99-499.100 Stat.
+               1613, as amended.
+               </p>
+    ",SELECT * FROM statutes WHERE volume = '04' AND page = '2767',,,,,,,04,2767
+COOR_CH54SOWA_ARTIVSALAFR_S54-86DE,"<div class=""chunk-title"">Sec. 54-86. - Definitions.</div>",bafkreibsvei747bbovoeevjul6obfuswy57k5ip2koepg5hu43llhzadfa,Stat,100 Stat. 1613,"bility Act of
+               1980, Pub. L. No. 96-510.04 Stat. 2767.42 U.S.C. 9601 et seq., as amended, and the
+               Superfund Amendments and Reauthorization Act of 1986, Pub. L. No. 99-499.100 Stat.
+               1613, as amended.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">Closure</span> means the cessation of operation of a solid waste management facility and the act
+        ",SELECT * FROM statutes WHERE volume = '100' AND page = '1613',,,,,,,100,1613
+COOR_CH54SOWA_ARTIVSALAFR_S54-86DE,"<div class=""chunk-title"">Sec. 54-86. - Definitions.</div>",bafkreibsvei747bbovoeevjul6obfuswy57k5ip2koepg5hu43llhzadfa,Stat,90 Stat. 2795,"ons, or all other legal entities.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">RCRA</span> means the Resource Conservation and Recovery Act of 1976, Pub. L. 94-580.90 Stat.
+               2795, U.S.C. Section 6901 et. seq., as amended.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">Sanitary landfill</span> means a facility for disposal of solid waste on la",SELECT * FROM statutes WHERE volume = '90' AND page = '2795',,,,,,,90,2795
+COOR_CH58UT_ARTIIISEUS_DIV1GE_S58-61AB,"<div class=""chunk-title"">Sec. 58-61. - Abbreviations.</div>",bafkreicbchte2arlvumqsoznooupo54s5kevv34qmz4q45dnhqkynrfvom,USC,42 U.S.C. 6901,"   <span class=""ital"">SIC</span> means standard industrial classification.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">SWDA</span> means Solid Waste Disposal Act, 42 USC 6901 et seq.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">USC</span> means United States Code.
+               </p>
+            <p class=""p0"">
+               <span class",SELECT * FROM usc WHERE title = '42' AND section = '6901',42,,6901,6901,,,,
+COOR_CH58UT_ARTIIISEUS_DIV1GE_S58-62DE,"<div class=""chunk-title"">Sec. 58-62. - Definitions.</div>",bafkreiby62dvu56ldlzunokmya2ollki5r3gnzdqj7adhtpbpi5eetng7u,USC,33 U.S.C. 1251,"ss=""p0"">
+               <span class=""ital"">Act</span> or <span class=""ital"">the act</span> means the Federal Water Pollution Control Act, also known as the Clean Water Act,
+               as amended, 33 USC 1251 et seq.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">Approval authority</span> means the director of the state division of environmental management or his authoriz",SELECT * FROM usc WHERE title = '33' AND section = '1251',33,,1251,1251,,,,
+COOR_CH58UT_ARTIIISEUS_DIV1GE_S58-62DE,"<div class=""chunk-title"">Sec. 58-62. - Definitions.</div>",bafkreiby62dvu56ldlzunokmya2ollki5r3gnzdqj7adhtpbpi5eetng7u,USC,33 U.S.C. 1317,"        <span class=""ital"">Indirect discharge</span> means the discharge or the introduction of nondomestic pollutants from any source
+               regulated under section 307(b) or (c) of the act (33 USC 1317), into a WWTP, including
+               holding tank waste discharged into the system.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">Industrial user</span> means an",SELECT * FROM usc WHERE title = '33' AND section = '1317',33,,1317,1317,,,,
+COOR_CH58UT_ARTIIISEUS_DIV1GE_S58-62DE,"<div class=""chunk-title"">Sec. 58-62. - Definitions.</div>",bafkreiby62dvu56ldlzunokmya2ollki5r3gnzdqj7adhtpbpi5eetng7u,USC,33 U.S.C. 1345,"y requirement of the sanitary district's NPDES permit.
+               The term includes prevention of sewage sludge use or disposal by a WWTP in accordance
+               with section 405 of the act (33 USC 1345) or any criteria, guidelines or regulations
+               developed pursuant to the Solid Waste Disposal Act (SWDA), the Clean Air Act, the
+               Toxic Substance Control Act, or more string",SELECT * FROM usc WHERE title = '33' AND section = '1345',33,,1345,1345,,,,
+COOR_CH58UT_ARTIIISEUS_DIV1GE_S58-62DE,"<div class=""chunk-title"">Sec. 58-62. - Definitions.</div>",bafkreiby62dvu56ldlzunokmya2ollki5r3gnzdqj7adhtpbpi5eetng7u,USC,33 U.S.C. 1347,"eatment standard or pretreatment standard</span> means any regulation containing pollutant discharge limits promulgated by the EPA
+               in accordance with section 307(b) and (c) of the act (33 USC 1347) which applies to
+               a specific category of industrial user.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">National pollution discharge elimination syst",SELECT * FROM usc WHERE title = '33' AND section = '1347',33,,1347,1347,,,,
+COOR_CH58UT_ARTIIISEUS_DIV1GE_S58-62DE,"<div class=""chunk-title"">Sec. 58-62. - Definitions.</div>",bafkreiby62dvu56ldlzunokmya2ollki5r3gnzdqj7adhtpbpi5eetng7u,USC,33 U.S.C. 1342,"     </p>
+            <p class=""p0"">
+               <span class=""ital"">National pollution discharge elimination system or NPDES permit</span> means a permit issued pursuant to section 402 of the act (33 USC 1342).
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">National prohibitive discharge standard or prohibitive discharge standard</span> means any regulation developed unde",SELECT * FROM usc WHERE title = '33' AND section = '1342',33,,1342,1342,,,,
+COOR_CH58UT_ARTIIISEUS_DIV1GE_S58-62DE,"<div class=""chunk-title"">Sec. 58-62. - Definitions.</div>",bafkreiby62dvu56ldlzunokmya2ollki5r3gnzdqj7adhtpbpi5eetng7u,USC,33 U.S.C. 1317,"        <span class=""ital"">Indirect discharge</span> means the discharge or the introduction of nondomestic pollutants from any source
+               regulated under section 307(b) or (c) of the act (33 USC 1317), into a WWTP, including
+               holding tank waste discharged into the system.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">Industrial user</span> means an",SELECT * FROM usc WHERE title = '33' AND section = '1317',33,,1317,1317,,,,
+COOR_CH58UT_ARTIIISEUS_DIV1GE_S58-62DE,"<div class=""chunk-title"">Sec. 58-62. - Definitions.</div>",bafkreiby62dvu56ldlzunokmya2ollki5r3gnzdqj7adhtpbpi5eetng7u,CFR,40 C.F.R. 403.5," <span class=""ital"">National prohibitive discharge standard or prohibitive discharge standard</span> means any regulation developed under the authority of section 307(b) of the act and
+               40 CFR 403.5.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">New source</span> means any source, the construction of which is commenced after the publication of
+               pr",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.5,,,,,
+COOR_CH58UT_ARTIIISEUS_DIV1GE_S58-62DE,"<div class=""chunk-title"">Sec. 58-62. - Definitions.</div>",bafkreiby62dvu56ldlzunokmya2ollki5r3gnzdqj7adhtpbpi5eetng7u,CFR,40 C.F.R. 403.6,"lutants into a WWTP. The reduction or alteration
+               can be obtained by physical, chemical or biological processes, or process change by
+               other means, except as prohibited by 40 CFR 403.6(d).
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">Pretreatment requirements</span> means any substantive or procedural requirement related to pretreatment, other th",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.6,,,,,
+COOR_CH58UT_ARTIIISEUS_DIV2RE_S58-82FECAPRST,"<div class=""chunk-title"">Sec. 58-82. - Federal categorical pretreatment standards.</div>",bafkreichjm4i5vrwvtcbm2ckll75lzteoqpkwblghhs6n6qbqxuevqi2wm,CFR,40 C.F.R. 403.12,"gory, shall immediately supersede the
+               limitations imposed under this article. The director shall notify all affected users
+               of the applicable reporting requirements under 40 CFR 403.12.
+               </p>
+            <p class=""historynote0"">
+               (Ord. of 6-1-92(2), Â§ 2(2))
+               </p></div>",SELECT * FROM cfr WHERE title = '40' AND part = '403',40,403,403.12,,,,,
+PTIICOOR_CH8BUBURE,"<div class=""chunk-title"">Chapter 8 - BUILDINGS AND BUILDING REGULATIONS<sup>[1]</sup></div>",bafkreialefalidnxlzitiumvaicbrrt7zql5oqc5yvyslfvluxmo6wp3r4,USC,40 U.S.C. 3312,"           Federal law referenceâ€”Compliance of federal buildings with local building codes and zoning laws, consideration
+               of local laws and cooperation with local officials required, 40 USC 3312.
+               </p>
+            
+            <p class=""refstatelawFN""><b>State Law referenceâ€” </b>
+               Building code council and state building code, G.S. 143-136 et seq.; authority of
+",SELECT * FROM usc WHERE title = '40' AND section = '3312',40,,3312,3312,,,,
+PTIICOOR_CH20FLDAPR_ARTIVAD_S20-77DUREFLAD,"<div class=""chunk-title"">Sec. 20-77. - Duties and responsibilities of the floodplain administrator.</div>",bafkreiglvs3ycnmvp7zmtknggjexqhvir5f4fuwx3g6xieoxb6nobaeegm,USC,33 U.S.C. 1334,"assure that all
+                  necessary local, state and federal permits have been received, including Section 404
+                  of the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1334.
+                  
+               </p>
+               		
+               
+               <p class=""incr1"">
+                  (3)
+                  
+               </p>
+               		
+             ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+PTIICOOR_CH20FLDAPR_ARTVPRFLHARE_S20-101GEST,"<div class=""chunk-title"">Sec. 20-101. - General standards.</div>",bafkreiceigem2s7c2kb6tl7hhazxbat2bjbghsgtgaji5a6rl7ltgusu7a,USC,33 U.S.C. 1334," governmental agencies for which approval is required
+                  by federal or state law, including Section 404 of the Federal Water Pollution Control
+                  Act Amendments of 1972, 33 U.S.C. 1334.
+                  
+               </p>
+               		
+               
+               <p class=""incr1"">
+                  (14)
+                  
+               </p>
+               		
+            ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+PTIICOOR_CH32SOWA_ARTIIIMARE_S32-50DE,"<div class=""chunk-title"">Sec. 32-50. - Definitions.</div>",bafkreic24rmwmfyfgyo3f5fr2zebvh4kd3jt3sjgvc66jb5vpsky4sja7y,USC,42 U.S.C. 2011,">
+               		
+               <p class=""content2"">
+                  Any sources, special nuclear or byproduct material as defined by the Atomic Energy
+                  Act of 1954, as amended (42 USC 2011);
+                  
+               </p>
+               		
+               
+               <p class=""incr1"">
+                  (5)
+                  
+               </p>
+               		
+            ",SELECT * FROM usc WHERE title = '42' AND section = '2011',42,,2011,2011,,,,
+PTIICOOR_CH32SOWA_ARTIIIMARE_S32-50DE,"<div class=""chunk-title"">Sec. 32-50. - Definitions.</div>",bafkreic24rmwmfyfgyo3f5fr2zebvh4kd3jt3sjgvc66jb5vpsky4sja7y,CFR,40 C.F.R. 261.4,"in research pertaining thereto, or in the production or
+               testing of biological, but does not include any hazardous waste, radioactive waste,
+               household waste as defined in 40 CFR 261.4(b)(1), or those substances excluded from
+               the definition of ""solid waste"" in this article.
+               
+            </p>
+            <p class=""p0"">
+               <span class=""ital"">",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.4,,,,,
+PTIICOOR_CH32SOWA_ARTIIIMARE_S32-50DE,"<div class=""chunk-title"">Sec. 32-50. - Definitions.</div>",bafkreic24rmwmfyfgyo3f5fr2zebvh4kd3jt3sjgvc66jb5vpsky4sja7y,Public Law,Public Law 92-500,Public Law 92-500 [Context not found],SELECT * FROM public_laws WHERE congress = '92' AND law_number = '500',,,,,92,500,,
+PTIICOOR_CH32SOWA_ARTIISALAFR_S32-22TR,"<div class=""chunk-title"">Sec. 32-22. - Transferability.</div>",bafkreia6cxnwejof5qzdqcrkk3kwyh3ff25lr6lyv6zfxlqrkwmswxgj4q,USC,47 U.S.C. 537,"<p class=""content2"">
+               The county shall exercise its power to approve a transfer of ownership or control
+               in a manner consistent with section 617 of the Communications Act (47 USC 537).
+               
+            </p>
+            		
+            <p class=""incr0"">
+               (c)
+               
+            </p>
+            		
+            <p class=""content1"">
+               <spa",SELECT * FROM usc WHERE title = '47' AND section = '537',47,,537,537,,,,
+PTIICOOR_CH6AV_ARTIIAI_DIV2OPST_S6-51REGOMIREALFISEOP,"<div class=""chunk-title"">Sec. 6-51. - Regulations governing minimum requirements for all fixed-base operations.</div>",bafkreigdu2c7qxmqf6m4d5ouzrp5mjjljakpdtyucvvy3zfou6ve23vy4a,Public Law,Public Law 88-352,Public Law 88-352 [Context not found],SELECT * FROM public_laws WHERE congress = '88' AND law_number = '352',,,,,88,352,,
+CD_ORD_CH15HIPR_S15-5HIPR,"<div class=""chunk-title"">Sec. 15-5. - Historic properties.</div>",bafkreiamf7s4rdrzi64uih5taafv4yka5lry4dwxwwrj6hzhylb4mcquwu,USC,16 U.S.C. 470a,"ied by the secretary of cultural resources)
+               on the National Register of Historic Places established by the National Historic Preservation
+               Act of 1966, Public Law 89-655, 16 USC 470a, as amended.
+               </p>
+            		
+            <p class=""incr2"">
+               c.
+               </p>
+            		
+            <p class=""content3"">
+               The resources commis",SELECT * FROM usc WHERE title = '16' AND section = '470a',16,,470a,470a,,,,
+CD_ORD_CH15HIPR_S15-5HIPR,"<div class=""chunk-title"">Sec. 15-5. - Historic properties.</div>",bafkreiamf7s4rdrzi64uih5taafv4yka5lry4dwxwwrj6hzhylb4mcquwu,Public Law,Public Law 89-655,"y listed (as certified by the secretary of cultural resources)
+               on the National Register of Historic Places established by the National Historic Preservation
+               Act of 1966, Public Law 89-655, 16 USC 470a, as amended.
+               </p>
+            		
+            <p class=""incr2"">
+               c.
+               </p>
+            		
+            <p class=""content3"">
+               The res",SELECT * FROM public_laws WHERE congress = '89' AND law_number = '655',,,,,89,655,,
+CD_ORD_APXIUNDEOR_ARTVENRE_S5.6FLDAPR,"<div class=""chunk-title"">Sec. 5.6 - Flood damage prevention.</div>",bafkreifbjxdyuwpk3yrc6ax22qzwva2wombhgkpnfofhwn5c6ooq2okryi,USC,33 U.S.C. 1334," those governmental agencies for which approval is required
+               by Federal or State law, including section 404 of the Federal Water Pollution Control
+               Act Amendments of 1972, 33 U.S.C. 1334.
+               </p>
+            		
+            <p class=""incr2"">
+               15)
+               </p>
+            		
+            <p class=""content3"">
+               When a structure is partially l",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+CD_ORD_CH18FLDAPR_ARTIIDE_S18-5DE,"<div class=""chunk-title"">Sec. 18-5. - Definitions.</div>",bafkreidoyqseeabprcdv6v3jaj7sjq6fcms4kzbzyft76g4khn2uyzjb7e,CFR,40 C.F.R. 86.082,"icular weight rating or less
+               which has a vehicular curb weight of 6,000 pounds or less and which has a basic vehicle
+               frontal area of 45 square feet or less as defined in 40 CFR 86.082-2 and is:
+               
+               <p class=""incr1"">
+                  (a)
+                  </p>
+               		
+               <p class=""content2"">
+                  Designed primarily for ",SELECT * FROM cfr WHERE title = '40' AND part = '86',40,86,86.082,,,,,
+CD_ORD_CH18FLDAPR_ARTIVAD_S18-27DUREFLAD,"<div class=""chunk-title"">Sec. 18-27. - Duties and responsibilities of the floodplain administrator.</div>",bafkreiaxit6ytsqebmsrib2phsplfv5id7sy7337azckcryrr2xmg6wpte,USC,33 U.S.C. 1334," assure that
+                  all necessary local, federal or state permits have been received, including Section
+                  404 of the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C 1334.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (3)
+                  </p>
+               		
+               <p class=""content2"">
+         ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+CD_ORD_CH18FLDAPR_ARTVPRFLHARE_S18-40GEST,"<div class=""chunk-title"">Sec. 18-40. - General standards.</div>",bafkreib2gh5f3eqvgmweihzo4r3rkwj6mzj67d4k6ffjioxivasawsqbnq,USC,33 U.S.C. 1334," governmental agencies for which approval is required
+                  by federal or state law, including Section 404 of the Federal Water Pollution Control
+                  Act Amendments of 1972, 33 U.S.C. 1334.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (16)
+                  </p>
+               		
+               <p class=""content2"">
+        ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+CD_ORD_CH32SOWA_ARTIIIFRPRSOWARESOWAMACO_DIV1GE_S32-51DE,"<div class=""chunk-title"">Sec. 32-51. - Definitions.</div>",bafkreickwalsgjlhjuy72p7rclxrskmtaty6nldfcogvvubirt3iu74efi,Public Law,Public Law 92-500,Public Law 92-500 [Context not found],SELECT * FROM public_laws WHERE congress = '92' AND law_number = '500',,,,,92,500,,
+COOR_CH11SOWA_ARTIINGE_S11-2DE,"<div class=""chunk-title"">Sec. 11-2. - Definitions.</div>",bafkreiedsfng5sj7lfv37pd7xhnw3k3ei2ouokyrwejhpoi6x4j4tlxz2e,USC,42 U.S.C. 2011,"p>
+               		
+               <p class=""content2"">
+                  Any source, special nuclear or byproduct material as defined by the Atomic Energy
+                  Act of 1954, as amended (42 U.S.C. 2011);
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (5)
+                  </p>
+               		
+               <p class=""content2"">
+        ",SELECT * FROM usc WHERE title = '42' AND section = '2011',42,,2011,2011,,,,
+COOR_CH11SOWA_ARTIINGE_S11-2DE,"<div class=""chunk-title"">Sec. 11-2. - Definitions.</div>",bafkreiedsfng5sj7lfv37pd7xhnw3k3ei2ouokyrwejhpoi6x4j4tlxz2e,CFR,40 C.F.R. 261.4,"n research pertaining thereto, or in the production or
+               testing of biologicals, but does not include any hazardous waste, radioactive waste,
+               household waste as defined in 40 C.F.R. 261.4(b)(1), or those substances excluded
+               from the definition of ""solid waste"" in this chapter.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">Municipal sol",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.4,,,,,
+COOR_APXAZO,"<div class=""chunk-title"">Appendix A - ZONING<sup>[1]</sup></div>",bafkreicnfull6r7e7nnjootetgtl5mv4gbpyx3utfzlh2cm56uekunisrq,USC,47 U.S.C. 322(c),47 U.S.C. 322(c) [Context not found],SELECT * FROM usc WHERE title = '47' AND section = '322',47,,322(c),322,,,,
+COOR_APXAZO,"<div class=""chunk-title"">Appendix A - ZONING<sup>[1]</sup></div>",bafkreicnfull6r7e7nnjootetgtl5mv4gbpyx3utfzlh2cm56uekunisrq,USC,42 U.S.C. 2000cc,"affecting
+               amateur radio facilities, Memorandum Opinion and Order, PRB-1, 101 FCC 2d 952 (1985) and 47 CFR 97.15(b); Religious Land Use and Institutionalized
+               Persons Act, 42 USC 2000cc et seq.
+               </p>
+            
+            <p class=""refstatelawFN""><b>State Law referenceâ€” </b>
+               Planning and regulation of development, G.S. 160D; grant of zoning power to",SELECT * FROM usc WHERE title = '42' AND section = '2000cc',42,,2000cc,2000cc,,,,
+COOR_APXAZO,"<div class=""chunk-title"">Appendix A - ZONING<sup>[1]</sup></div>",bafkreicnfull6r7e7nnjootetgtl5mv4gbpyx3utfzlh2cm56uekunisrq,CFR,47 C.F.R. 97.15,"          47 USC 322(c)(7); limited federal preemption of state and local zoning laws affecting
+               amateur radio facilities, Memorandum Opinion and Order, PRB-1, 101 FCC 2d 952 (1985) and 47 CFR 97.15(b); Religious Land Use and Institutionalized
+               Persons Act, 42 USC 2000cc et seq.
+               </p>
+            
+            <p class=""refstatelawFN""><b>State Law referenceâ€” </b>
+   ",SELECT * FROM cfr WHERE title = '47' AND part = '97',47,97,97.15,,,,,
+COOR_CH42MAHO,"<div class=""chunk-title"">Chapter 42 - MANUFACTURED HOUSING<sup>[1]</sup></div>",bafkreic36lcctw2yk5u2mzwyvj3rqrr4yakpjvldeet7boc6k6ecxnqhb4,USC,42 U.S.C. 5403," state or local government may establish construction and safety standards for
+               manufactured housing which are not identical to federal construction and safety standards,
+               42 USC 5403; National Manufactured Home Construction and Safety Standards [""HUD Code""],
+               24 CFR 3280 et seq.
+               </p>
+            
+            <p class=""refstatelawFN""><b>State Law refer",SELECT * FROM usc WHERE title = '42' AND section = '5403',42,,5403,5403,,,,
+COOR_CH42MAHO,"<div class=""chunk-title"">Chapter 42 - MANUFACTURED HOUSING<sup>[1]</sup></div>",bafkreic36lcctw2yk5u2mzwyvj3rqrr4yakpjvldeet7boc6k6ecxnqhb4,CFR,24 C.F.R. 3280,"red housing which are not identical to federal construction and safety standards,
+               42 USC 5403; National Manufactured Home Construction and Safety Standards [""HUD Code""],
+               24 CFR 3280 et seq.
+               </p>
+            
+            <p class=""refstatelawFN""><b>State Law referenceâ€” </b>
+               Local governments must consider allocating more land for manufactured housi",SELECT * FROM cfr WHERE title = '24' AND part = '3280',24,3280,3280,,,,,
+COOR_CH38FLDAPR_ARTIIAD_S38-34DUREFLAD,"<div class=""chunk-title"">Sec. 38-34. - Duties and responsibilities of the floodplain administrator.</div>",bafkreibdx5mpqhbwjqcrw4ezer7gv76opa4mb7m2eixntctmo7d3bvrjku,USC,33 U.S.C. 1334,"assure that all
+                  necessary local, state and federal permits have been received, including Section 404
+                  of the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1334.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (3)
+                  </p>
+               		
+               <p class=""content2"">
+         ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+COOR_CH38FLDAPR_ARTIIIFLHARE_S38-61PRFLHARE,"<div class=""chunk-title"">Sec. 38-61. - Provisions for flood hazard reduction.</div>",bafkreihyv3xjyrqhtindb4k4vypl5npvkmuvhpvcadgmcq72qznoqugro4,USC,33 U.S.C. 1334," governmental agencies for which approval is required
+                  by federal or state law, including Section 404 of the Federal Water Pollution Control
+                  Act Amendments of 1972, 33 U.S.C. 1334.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (14)
+                  </p>
+               		
+               <p class=""content2"">
+        ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+COOR_CH38FLDAPR_ARTIINGE_S38-5DE,"<div class=""chunk-title"">Sec. 38-5. - Definitions.</div>",bafkreifekrgwtu47hci5njeocpmpwpfyf4usbriqoy6w7fr6q2vkoecg6u,CFR,40 C.F.R. 86.082,"icular weight rating or less
+               which has a vehicular curb weight of 6,000 pounds or less and which has a basic vehicle
+               frontal area of 45 square feet or less as defined in 40 CFR 86.082-2 and is:
+               
+               <p class=""incr1"">
+                  (1)
+                  </p>
+               		
+               <p class=""content2"">
+                  Designed primarily for ",SELECT * FROM cfr WHERE title = '40' AND part = '86',40,86,86.082,,,,,
+COOR_CH62SOWA_ARTIINGE_S62-4DE,"<div class=""chunk-title"">Sec. 62-4. - Definitions.</div>",bafkreih6a3nhwmlooimqflj3p3rtvifv2jiiifvlitzzyhyj2bowd6dl6y,USC,42 U.S.C. 6901,"y.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">RCRA</span> means the Resource Conservation and Recovery Act of 1976, Pub. L. 94-580, 90 Stat.
+               2795, 42 USC 6901 et seq., as amended.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">Recovered materials</span> means those materials which have known recycling potential, can be fea",SELECT * FROM usc WHERE title = '42' AND section = '6901',42,,6901,6901,,,,
+COOR_CH62SOWA_ARTIINGE_S62-4DE,"<div class=""chunk-title"">Sec. 62-4. - Definitions.</div>",bafkreih6a3nhwmlooimqflj3p3rtvifv2jiiifvlitzzyhyj2bowd6dl6y,USC,42 U.S.C. 2011,"p>
+               		
+               <p class=""content2"">
+                  Any source, special nuclear or byproduct material as defined by the Atomic Energy
+                  Act of 1954, as amended (42 USC 2011);
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (5)
+                  </p>
+               		
+               <p class=""content2"">
+        ",SELECT * FROM usc WHERE title = '42' AND section = '2011',42,,2011,2011,,,,
+COOR_CH62SOWA_ARTIINGE_S62-4DE,"<div class=""chunk-title"">Sec. 62-4. - Definitions.</div>",bafkreih6a3nhwmlooimqflj3p3rtvifv2jiiifvlitzzyhyj2bowd6dl6y,CFR,40 C.F.R. 261.4,40 C.F.R. 261.4 [Context not found],SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.4,,,,,
+COOR_CH62SOWA_ARTIINGE_S62-4DE,"<div class=""chunk-title"">Sec. 62-4. - Definitions.</div>",bafkreih6a3nhwmlooimqflj3p3rtvifv2jiiifvlitzzyhyj2bowd6dl6y,Stat,90 Stat. 2795,"onizing radiation spontaneously.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">RCRA</span> means the Resource Conservation and Recovery Act of 1976, Pub. L. 94-580, 90 Stat.
+               2795, 42 USC 6901 et seq., as amended.
+               </p>
+            <p class=""p0"">
+               <span class=""ital"">Recovered materials</span> means those materials which have known recycling potentia",SELECT * FROM statutes WHERE volume = '90' AND page = '2795',,,,,,,90,2795
+PTIICOOR_APXAAIHE,"<div class=""chunk-title"">Appendix A - AIRPORT HEIGHT<sup>[1]</sup></div>",bafkreidpxrdn5c4yqcm75uqojc6tbdomx67v5nvlmaqb44iesu663vwwwe,USC,47 U.S.C. 322(c),47 U.S.C. 322(c) [Context not found],SELECT * FROM usc WHERE title = '47' AND section = '322',47,,322(c),322,,,,
+PTIICOOR_APXAAIHE,"<div class=""chunk-title"">Appendix A - AIRPORT HEIGHT<sup>[1]</sup></div>",bafkreidpxrdn5c4yqcm75uqojc6tbdomx67v5nvlmaqb44iesu663vwwwe,USC,42 U.S.C. 2000cc,42 U.S.C. 2000cc [Context not found],SELECT * FROM usc WHERE title = '42' AND section = '2000cc',42,,2000cc,2000cc,,,,
+PTIICOOR_APXAAIHE,"<div class=""chunk-title"">Appendix A - AIRPORT HEIGHT<sup>[1]</sup></div>",bafkreidpxrdn5c4yqcm75uqojc6tbdomx67v5nvlmaqb44iesu663vwwwe,CFR,47 C.F.R. 97.15,"C 322(c)(7); limited federal preemption of state and local zoning laws affecting
+               amateur radio facilities, Memorandum Opinion and Order, PRB-1, 101 FCC 2d 952 (1985)
+               and 47 CFR 97.15(b); Religious Land Use and Institutionalized Persons Act, 42 USC
+               2000cc et seq.
+               </p>
+            
+            <p class=""refstatelawFN""><b>State Law referenceâ€” </b>
+   ",SELECT * FROM cfr WHERE title = '47' AND part = '97',47,97,97.15,,,,,
+PTIICOOR_CH14FLDAPR_ARTIIIPRFLHARE_S14-72GEST,"<div class=""chunk-title"">Sec. 14-72. - General standards.</div>",bafkreien7waqgfw5v33pqqgvctct6v5teursnzkjqvywjbogczfd3p5n2u,USC,33 U.S.C. 1344," governmental agencies for which approval is required
+                  by federal or state law, including Section 404 of the Federal Water Pollution Control
+                  Act Amendments of 1972, 33 USC 1344.
+                  
+               </p>
+               		
+               
+               <p class=""incr1"">
+                  (15)
+                  
+               </p>
+               		
+            ",SELECT * FROM usc WHERE title = '33' AND section = '1344',33,,1344,1344,,,,
+COOR_CH44SOWA_ARTIINGE_S44-1DE,"<div class=""chunk-title"">Sec. 44-1. - Definitions.</div>",bafkreigsnmmt5l7v5w22x3zcl2uebwjhmj7n4tzi223iq7kqa5lh5oykn4,CFR,40 C.F.R. 261.4,"testing of biologicals, but does not
+               include any hazardous waste identified or listed pursuant to G.S. 130A-290 et seq.,
+               radioactive waste, household waste as defined in 40 CFR 261.4(b)(1) in effect on July
+               1, 1989, or those substances excluded from the definition of solid waste in G.S. 130A-290
+               et seq.
+               </p>
+            <p class=""p0"">
+",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.4,,,,,
+COOR_CH56UT,"<div class=""chunk-title"">Chapter 56 - UTILITIES<sup>[1]</sup></div>",bafkreibxgq7l6zvzlui5vz72wfncwf653bbqogxdmygrcdktsyxa2ugbd4,USC,7 U.S.C. 1926(b),7 U.S.C. 1926(b) [Context not found],SELECT * FROM usc WHERE title = '7' AND section = '1926',7,,1926(b),1926,,,,
+COOR_CH8AV_ARTIIIAINORE,"<div class=""chunk-title"">ARTICLE III. - AIRPORT NOISE REGULATIONS<sup>[2]</sup></div>",bafkreieofda23loyyvs5oyzgbcoa6ou2ecf5cd2v3nktnsahymow7r5soe,USC,49 U.S.C. 47501," style=""font-weight:bold;"">Footnotes: </div> --- (<b>2</b>) ---
+            
+            <p class=""refmanualFN"">
+               Federal law referenceâ€”Airport Safety and Noise Abatement Act of 1979, 49 USC 47501 et seq.
+               </p>
+            <br></div></div>",SELECT * FROM usc WHERE title = '49' AND section = '47501',49,,47501,47501,,,,
+COOR_CH27FLDAPR_ARTIIDE_S27-10DE,"<div class=""chunk-title"">Sec. 27-10. - Definitions.</div>",bafkreigtyivirskqzdpuakwaf6o35srlmr2zzzpjcqzjkudgsf6wnh6wqm,CFR,40 C.F.R. 86.082,"icular Weight Rating or less
+               which has a vehicular curb weight of 6,000 pounds or less and which has a basic vehicle
+               frontal area of 45 square feet or less as defined in 40 CFR 86.082-2 and is:
+               
+               <p class=""incr1"">
+                  (1)
+                  </p>
+               		
+               <p class=""content2"">
+                  Designed primarily for ",SELECT * FROM cfr WHERE title = '40' AND part = '86',40,86,86.082,,,,,
+COOR_CH27FLDAPR_ARTIVAD_S27-32DUREFLAD,"<div class=""chunk-title"">Sec. 27-32. - Duties and responsibilities of the floodplain administrator.</div>",bafkreih3elw7vnxey35jtum4dityaecevl4x354oepuiwag3cgpx4xdinm,USC,33 U.S.C. 1334,"assure that all
+                  necessary local, state and federal permits have been received, including Section 404
+                  of the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1334.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (3)
+                  </p>
+               		
+               <p class=""content2"">
+         ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+COOR_CH27FLDAPR_ARTVPRFLHARE_S27-40GEST,"<div class=""chunk-title"">Sec. 27-40. - General standards.</div>",bafkreidnmpcspbindewp5d6om7yn576ocnwjys5flom2nrwk3hzvw3xuve,USC,33 U.S.C. 1334," governmental agencies for which approval is required
+                  by federal or state law, including Section 404 of the Federal Water Pollution Control
+                  Act Amendments of 1972, 33 U.S.C. 1334.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (14)
+                  </p>
+               		
+               <p class=""content2"">
+        ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+COOR_CH44SOWA_ARTIINGE_S44-2DE,"<div class=""chunk-title"">Sec. 44-2. - Definitions.</div>",bafkreiesdwctsrr4fyfzuvbn3me5uhjcp4la4xi7n3asj5yor2zuhuwuci,CFR,40 C.F.R. 261.4,"f biological materials, but does not include any hazardous waste identified
+                  or listed pursuant to this article, radioactive waste, or household waste as defined
+                  in 40 CFR 261.4(b)(1) in effect on July 1, 1989.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (11)
+                  </p>
+               		
+            ",SELECT * FROM cfr WHERE title = '40' AND part = '261',40,261,261.4,,,,,
+COOR_CH7FLDAPRPR_ARTIIDE_S7-26DE,"<div class=""chunk-title"">Sec. 7-26. - Definitions.</div>",bafkreih3v5mdrsmfmc3extdtczzy2p3nl25f2n5j3nmhlkanu2z57pfmui,CFR,40 C.F.R. 86.082,"icular weight rating or less
+               which has a vehicular curb weight of 6,000 pounds or less and which has a basic vehicle
+               frontal area of 45 square feet or less as defined in 40 CFR 86.082-2 and is:
+               
+               <p class=""incr1"">
+                  (1)
+                  </p>
+               		
+               <p class=""content2"">
+                  Designed primarily for ",SELECT * FROM cfr WHERE title = '40' AND part = '86',40,86,86.082,,,,,
+COOR_CH7FLDAPRPR_ARTIVAD_S7-68DUREFLAD,"<div class=""chunk-title"">Sec. 7-68. - Duties and responsibilities of the floodplain administrator.</div>",bafkreif47bjsoixvcy575qcvmbdrz3ckn4ylh7kgoy2npcttreinmr3xeu,USC,33 U.S.C. 1334,"assure that all
+                  necessary local, state and federal permits have been received, including Section 404
+                  of the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1334.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (3)
+                  </p>
+               		
+               <p class=""content2"">
+         ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
+COOR_CH7FLDAPRPR_ARTVPRFLHARE_S7-86GEST,"<div class=""chunk-title"">Sec. 7-86. - General standards.</div>",bafkreifottadsomppyjgx6hcywi4jdeikoatyxnhas4twyij3eyzcnxkyq,USC,33 U.S.C. 1334," governmental agencies for which approval is required
+                  by federal or state law, including Section 404 of the Federal Water Pollution Control
+                  Act Amendments of 1972, 33 U.S.C. 1334.
+                  </p>
+               		
+               
+               <p class=""incr1"">
+                  (13)
+                  </p>
+               		
+               <p class=""content2"">
+        ",SELECT * FROM usc WHERE title = '33' AND section = '1334',33,,1334,1334,,,,
