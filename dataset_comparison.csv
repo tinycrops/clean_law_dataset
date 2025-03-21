@@ -1,0 +1,11 @@
+index,original_doc_id,original_html_title,processed_title,processed_public_law_number,processed_statute_number,processed_bill_enacted,processed_year,processed_document_type,citation_count
+0,CD_COMPARATIVE_TABLEOR,"<div class=""chunk-title"">CODE COMPARATIVE TABLE - ORDINANCES</div>...",CODE COMPARATIVE TABLE - ORDINANCES,,,,1401,other,41
+1,COORBUCONOCA,"<div class=""chunk-title"">CODE OF ORDINANCES BUNCOMBE COUNTY, NORTH CAROLINA</div>...","CODE OF ORDINANCES BUNCOMBE COUNTY, NORTH CAROLINA",95-9-1,,"september 5, 1995",1995,ordinance,10
+2,COOR_CH10BUBURE,"<div class=""chunk-title"">Chapter 10 - BUILDINGS AND BUILDING REGULATIONS<sup>[1]</sup></div>...",Chapter 10 - BUILDINGS AND BUILDING REGULATIONS,,10,,,chapter,1
+3,COOR_CH14BU,"<div class=""chunk-title"">Chapter 14 - BUSINESSES<sup>[1]</sup></div>...",Chapter 14 - BUSINESSES,,14,,,chapter,4
+4,COOR_CH1GEPR,"<div class=""chunk-title"">Chapter 1 - GENERAL PROVISIONS</div>...",Chapter 1 - GENERAL PROVISIONS,,1,,,chapter,0
+5,COOR_CH21EMMA,"<div class=""chunk-title"">Chapter 21 - EMERGENCY MANAGEMENT<sup>[1]</sup></div>...",Chapter 21 - EMERGENCY MANAGEMENT,,21,,,chapter,0
+6,COOR_CH22EMSE,"<div class=""chunk-title"">Chapter 22 - EMERGENCY SERVICES<sup>[1]</sup></div>...",Chapter 22 - EMERGENCY SERVICES,,22,,,chapter,1
+7,COOR_CH30FIPRPR,"<div class=""chunk-title"">Chapter 30 - FIRE PREVENTION AND PROTECTION<sup>[1]</sup></div>...",Chapter 30 - FIRE PREVENTION AND PROTECTION,,30,,,chapter,0
+8,COOR_CH34FL,"<div class=""chunk-title"">Chapter 34 - FLOODS<sup>[1]</sup></div>...",Chapter 34 - FLOODS,,34,,,chapter,0
+9,COOR_CH38HIPR,"<div class=""chunk-title"">Chapter 38 - HISTORICAL PRESERVATION<sup>[1]</sup></div>...",Chapter 38 - HISTORICAL PRESERVATION,,38,,,chapter,0

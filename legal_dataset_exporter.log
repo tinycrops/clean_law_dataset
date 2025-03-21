@@ -1,7 +1,0 @@
-2025-03-18 19:41:33,662 - legal_dataset_exporter - INFO - Starting legal dataset export
-2025-03-18 19:41:33,663 - legal_dataset_exporter - INFO - Loading data from processed_data
-2025-03-18 19:41:33,664 - legal_dataset_exporter - INFO - Loading 109 parquet files
-2025-03-18 19:41:37,002 - legal_dataset_exporter - INFO - Loaded 450642 valid rows from 109 files
-2025-03-18 19:41:37,027 - legal_dataset_exporter - INFO - Extracting document structure
-2025-03-18 19:45:29,543 - legal_dataset_exporter - INFO - Extracted structure for 432191 documents
-2025-03-18 19:45:29,562 - legal_dataset_exporter - INFO - Identifying document relationships
